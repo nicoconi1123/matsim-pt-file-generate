@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE transitSchedule
+  SYSTEM 'http://www.matsim.org/files/dtd/transitSchedule_v2.dtd'>
+	<transitSchedule>
+		<transitStops>
+			<stopFacility id="stop_南京3号线林场" linkRefId="南京3号线林场" x="13210432.472638335" y="3784800.0150626823"/>
+			<stopFacility id="stop_南京3号线林场_r" linkRefId="南京3号线林场_r" x="13210437.472638335" y="3784805.0150626823"/>
+			<stopFacility id="stop_南京3号线星火路" linkRefId="南京3号线星火路" x="13213242.51054443" y="3783972.904529818"/>
+			<stopFacility id="stop_南京3号线星火路_r" linkRefId="南京3号线星火路_r" x="13213247.51054443" y="3783977.904529818"/>
+			<stopFacility id="stop_南京3号线东大成贤学院" linkRefId="南京3号线东大成贤学院" x="13214501.645304792" y="3783840.493248353"/>
+			<stopFacility id="stop_南京3号线东大成贤学院_r" linkRefId="南京3号线东大成贤学院_r" x="13214506.645304792" y="3783845.493248353"/>
+			<stopFacility id="stop_南京3号线泰冯路" linkRefId="南京3号线泰冯路" x="13215730.94644162" y="3783469.0394186405"/>
+			<stopFacility id="stop_南京3号线泰冯路_r" linkRefId="南京3号线泰冯路_r" x="13215735.94644162" y="3783474.0394186405"/>
+			<stopFacility id="stop_南京3号线天润城" linkRefId="南京3号线天润城" x="13217417.102768667" y="3783128.8898507827"/>
+			<stopFacility id="stop_南京3号线天润城_r" linkRefId="南京3号线天润城_r" x="13217422.102768667" y="3783133.8898507827"/>
+			<stopFacility id="stop_南京3号线柳洲东路" linkRefId="南京3号线柳洲东路" x="13218770.636457222" y="3781697.2644510353"/>
+			<stopFacility id="stop_南京3号线柳洲东路_r" linkRefId="南京3号线柳洲东路_r" x="13218775.636457222" y="3781702.2644510353"/>
+			<stopFacility id="stop_南京3号线上元门" linkRefId="南京3号线上元门" x="13221408.797069533" y="3778477.553565966"/>
+			<stopFacility id="stop_南京3号线上元门_r" linkRefId="南京3号线上元门_r" x="13221413.797069533" y="3778482.553565966"/>
+			<stopFacility id="stop_南京3号线五塘广场" linkRefId="南京3号线五塘广场" x="13222271.523123179" y="3777824.3576784744"/>
+			<stopFacility id="stop_南京3号线五塘广场_r" linkRefId="南京3号线五塘广场_r" x="13222276.523123179" y="3777829.3576784744"/>
+			<stopFacility id="stop_南京3号线小市" linkRefId="南京3号线小市" x="13223167.756343555" y="3775787.0617633993"/>
+			<stopFacility id="stop_南京3号线小市_r" linkRefId="南京3号线小市_r" x="13223172.756343555" y="3775792.0617633993"/>
+			<stopFacility id="stop_南京3号线南京站" linkRefId="南京3号线南京站" x="13224366.889898382" y="3775041.2479793904"/>
+			<stopFacility id="stop_南京3号线南京站_r" linkRefId="南京3号线南京站_r" x="13224371.889898382" y="3775046.2479793904"/>
+			<stopFacility id="stop_南京3号线南京林业大学·新庄" linkRefId="南京3号线南京林业大学·新庄" x="13225917.12512717" y="3773351.775303287"/>
+			<stopFacility id="stop_南京3号线南京林业大学·新庄_r" linkRefId="南京3号线南京林业大学·新庄_r" x="13225922.12512717" y="3773356.775303287"/>
+			<stopFacility id="stop_南京3号线鸡鸣寺" linkRefId="南京3号线鸡鸣寺" x="13224541.9954574" y="3770830.030082271"/>
+			<stopFacility id="stop_南京3号线鸡鸣寺_r" linkRefId="南京3号线鸡鸣寺_r" x="13224546.9954574" y="3770835.030082271"/>
+			<stopFacility id="stop_南京3号线浮桥" linkRefId="南京3号线浮桥" x="13224322.139463084" y="3769699.7054715315"/>
+			<stopFacility id="stop_南京3号线浮桥_r" linkRefId="南京3号线浮桥_r" x="13224327.139463084" y="3769704.7054715315"/>
+			<stopFacility id="stop_南京3号线大行宫" linkRefId="南京3号线大行宫" x="13224175.197735235" y="3768790.505680691"/>
+			<stopFacility id="stop_南京3号线大行宫_r" linkRefId="南京3号线大行宫_r" x="13224180.197735235" y="3768795.505680691"/>
+			<stopFacility id="stop_南京3号线常府街" linkRefId="南京3号线常府街" x="13223900.238592977" y="3767695.827385872"/>
+			<stopFacility id="stop_南京3号线常府街_r" linkRefId="南京3号线常府街_r" x="13223905.238592977" y="3767700.827385872"/>
+			<stopFacility id="stop_南京3号线夫子庙" linkRefId="南京3号线夫子庙" x="13223743.723388921" y="3766477.038210605"/>
+			<stopFacility id="stop_南京3号线夫子庙_r" linkRefId="南京3号线夫子庙_r" x="13223748.723388921" y="3766482.038210605"/>
+			<stopFacility id="stop_南京3号线武定门" linkRefId="南京3号线武定门" x="13224157.943214161" y="3765115.2707748306"/>
+			<stopFacility id="stop_南京3号线武定门_r" linkRefId="南京3号线武定门_r" x="13224162.943214161" y="3765120.2707748306"/>
+			<stopFacility id="stop_南京3号线雨花门" linkRefId="南京3号线雨花门" x="13223915.489363214" y="3763806.690798992"/>
+			<stopFacility id="stop_南京3号线雨花门_r" linkRefId="南京3号线雨花门_r" x="13223920.489363214" y="3763811.690798992"/>
+			<stopFacility id="stop_南京3号线卡子门" linkRefId="南京3号线卡子门" x="13224256.127005043" y="3762659.699893611"/>
+			<stopFacility id="stop_南京3号线卡子门_r" linkRefId="南京3号线卡子门_r" x="13224261.127005043" y="3762664.699893611"/>
+			<stopFacility id="stop_南京3号线大明路" linkRefId="南京3号线大明路" x="13224713.650112202" y="3761488.0128099453"/>
+			<stopFacility id="stop_南京3号线大明路_r" linkRefId="南京3号线大明路_r" x="13224718.650112202" y="3761493.0128099453"/>
+			<stopFacility id="stop_南京3号线明发广场" linkRefId="南京3号线明发广场" x="13224812.501820026" y="3760298.460838688"/>
+			<stopFacility id="stop_南京3号线明发广场_r" linkRefId="南京3号线明发广场_r" x="13224817.501820026" y="3760303.460838688"/>
+			<stopFacility id="stop_南京3号线南京南站" linkRefId="南京3号线南京南站" x="13224528.08052105" y="3759209.1474283217"/>
+			<stopFacility id="stop_南京3号线南京南站_r" linkRefId="南京3号线南京南站_r" x="13224533.08052105" y="3759214.1474283217"/>
+			<stopFacility id="stop_南京3号线宏运大道" linkRefId="南京3号线宏运大道" x="13225208.242609797" y="3757932.4363466976"/>
+			<stopFacility id="stop_南京3号线宏运大道_r" linkRefId="南京3号线宏运大道_r" x="13225213.242609797" y="3757937.4363466976"/>
+			<stopFacility id="stop_南京3号线胜太西路" linkRefId="南京3号线胜太西路" x="13225583.0553353" y="3755932.090283799"/>
+			<stopFacility id="stop_南京3号线胜太西路_r" linkRefId="南京3号线胜太西路_r" x="13225588.0553353" y="3755937.090283799"/>
+			<stopFacility id="stop_南京3号线天元西路" linkRefId="南京3号线天元西路" x="13225711.851986146" y="3753823.4732883777"/>
+			<stopFacility id="stop_南京3号线天元西路_r" linkRefId="南京3号线天元西路_r" x="13225716.851986146" y="3753828.4732883777"/>
+			<stopFacility id="stop_南京3号线九龙湖" linkRefId="南京3号线九龙湖" x="13227117.928474357" y="3752293.9564895523"/>
+			<stopFacility id="stop_南京3号线九龙湖_r" linkRefId="南京3号线九龙湖_r" x="13227122.928474357" y="3752298.9564895523"/>
+			<stopFacility id="stop_南京3号线诚信大道" linkRefId="南京3号线诚信大道" x="13228083.291098515" y="3751202.7434068825"/>
+			<stopFacility id="stop_南京3号线诚信大道_r" linkRefId="南京3号线诚信大道_r" x="13228088.291098515" y="3751207.7434068825"/>
+			<stopFacility id="stop_南京3号线东大九龙湖校区" linkRefId="南京3号线东大九龙湖校区" x="13228145.184735397" y="3749671.5920111705"/>
+			<stopFacility id="stop_南京3号线东大九龙湖校区_r" linkRefId="南京3号线东大九龙湖校区_r" x="13228150.184735397" y="3749676.5920111705"/>
+			<stopFacility id="stop_南京3号线秣周东路" linkRefId="南京3号线秣周东路" x="13228208.859484129" y="3746124.084704705"/>
+			<stopFacility id="stop_南京3号线秣周东路_r" linkRefId="南京3号线秣周东路_r" x="13228213.859484129" y="3746129.084704705"/>
+			<stopFacility id="stop_南京6路清凉山公园" linkRefId="南京6路清凉山公园" x="13220402.35755327" y="3769631.1486483943"/>
+			<stopFacility id="stop_南京6路清凉山公园_r" linkRefId="南京6路清凉山公园_r" x="13220407.35755327" y="3769636.1486483943"/>
+			<stopFacility id="stop_南京6路省人民医院1" linkRefId="南京6路省人民医院1" x="13220996.803634105" y="3769535.406153188"/>
+			<stopFacility id="stop_南京6路省人民医院1_r" linkRefId="南京6路省人民医院1_r" x="13221001.803634105" y="3769540.406153188"/>
+			<stopFacility id="stop_南京6路脑科医院" linkRefId="南京6路脑科医院" x="13221427.387424495" y="3769877.5347626004"/>
+			<stopFacility id="stop_南京6路脑科医院_r" linkRefId="南京6路脑科医院_r" x="13221432.387424495" y="3769882.5347626004"/>
+			<stopFacility id="stop_南京6路随家仓" linkRefId="南京6路随家仓" x="13221708.580458239" y="3770031.462979372"/>
+			<stopFacility id="stop_南京6路随家仓_r" linkRefId="南京6路随家仓_r" x="13221713.580458239" y="3770036.462979372"/>
+			<stopFacility id="stop_南京6路儿童医院" linkRefId="南京6路儿童医院" x="13222521.32406052" y="3769881.0808682772"/>
+			<stopFacility id="stop_南京6路儿童医院_r" linkRefId="南京6路儿童医院_r" x="13222526.32406052" y="3769886.0808682772"/>
+			<stopFacility id="stop_南京6路珠江路·中山路" linkRefId="南京6路珠江路·中山路" x="13223183.786350232" y="3769884.6269749994"/>
+			<stopFacility id="stop_南京6路珠江路·中山路_r" linkRefId="南京6路珠江路·中山路_r" x="13223188.786350232" y="3769889.6269749994"/>
+			<stopFacility id="stop_南京6路莲花桥" linkRefId="南京6路莲花桥" x="13223742.610194013" y="3769788.357115683"/>
+			<stopFacility id="stop_南京6路莲花桥_r" linkRefId="南京6路莲花桥_r" x="13223747.610194013" y="3769793.357115683"/>
+			<stopFacility id="stop_南京6路浮桥西" linkRefId="南京6路浮桥西" x="13224009.331693955" y="3769733.852694082"/>
+			<stopFacility id="stop_南京6路浮桥西_r" linkRefId="南京6路浮桥西_r" x="13224014.331693955" y="3769738.852694082"/>
+			<stopFacility id="stop_南京6路浮桥" linkRefId="南京6路浮桥" x="13224771.981525378" y="3769570.4722460527"/>
+			<stopFacility id="stop_南京6路浮桥_r" linkRefId="南京6路浮桥_r" x="13224776.981525378" y="3769575.4722460527"/>
+			<stopFacility id="stop_南京6路珠江路·小营" linkRefId="南京6路珠江路·小营" x="13225087.90624025" y="3769504.41148961"/>
+			<stopFacility id="stop_南京6路珠江路·小营_r" linkRefId="南京6路珠江路·小营_r" x="13225092.90624025" y="3769509.41148961"/>
+			<stopFacility id="stop_南京6路马标" linkRefId="南京6路马标" x="13225723.206574207" y="3769279.4399073436"/>
+			<stopFacility id="stop_南京6路马标_r" linkRefId="南京6路马标_r" x="13225728.206574207" y="3769284.4399073436"/>
+			<stopFacility id="stop_南京6路后宰门" linkRefId="南京6路后宰门" x="13226841.7448177" y="3769456.737650363"/>
+			<stopFacility id="stop_南京6路后宰门_r" linkRefId="南京6路后宰门_r" x="13226846.7448177" y="3769461.737650363"/>
+			<stopFacility id="stop_南京6路富贵山" linkRefId="南京6路富贵山" x="13226932.581522187" y="3770047.880354331"/>
+			<stopFacility id="stop_南京6路富贵山_r" linkRefId="南京6路富贵山_r" x="13226937.581522187" y="3770052.880354331"/>
+			<stopFacility id="stop_南京6路板仓街·岗子村" linkRefId="南京6路板仓街·岗子村" x="13226669.310926458" y="3772060.163673594"/>
+			<stopFacility id="stop_南京6路板仓街·岗子村_r" linkRefId="南京6路板仓街·岗子村_r" x="13226674.310926458" y="3772065.163673594"/>
+			<stopFacility id="stop_南京6路板仓村" linkRefId="南京6路板仓村" x="13227105.015413424" y="3772503.6468845056"/>
+			<stopFacility id="stop_南京6路板仓村_r" linkRefId="南京6路板仓村_r" x="13227110.015413424" y="3772508.6468845056"/>
+			<stopFacility id="stop_南京6路钟麓花园" linkRefId="南京6路钟麓花园" x="13227500.756203195" y="3772881.592625585"/>
+			<stopFacility id="stop_南京6路钟麓花园_r" linkRefId="南京6路钟麓花园_r" x="13227505.756203195" y="3772886.592625585"/>
+			<stopFacility id="stop_南京6路板仓街·花园路" linkRefId="南京6路板仓街·花园路" x="13228013.716416769" y="3773251.930557794"/>
+			<stopFacility id="stop_南京6路板仓街·花园路_r" linkRefId="南京6路板仓街·花园路_r" x="13228018.716416769" y="3773256.930557794"/>
+			<stopFacility id="stop_南京6路樱驼村" linkRefId="南京6路樱驼村" x="13228107.224789035" y="3773639.227705304"/>
+			<stopFacility id="stop_南京6路樱驼村_r" linkRefId="南京6路樱驼村_r" x="13228112.224789035" y="3773644.227705304"/>
+			<stopFacility id="stop_南京6路蒋王庙" linkRefId="南京6路蒋王庙" x="13228142.84702609" y="3773903.9580096165"/>
+			<stopFacility id="stop_南京6路蒋王庙_r" linkRefId="南京6路蒋王庙_r" x="13228147.84702609" y="3773908.9580096165"/>
+			<stopFacility id="stop_南京6路樱花路" linkRefId="南京6路樱花路" x="13228404.447829453" y="3774151.482838786"/>
+			<stopFacility id="stop_南京6路樱花路_r" linkRefId="南京6路樱花路_r" x="13228409.447829453" y="3774156.482838786"/>
+			<stopFacility id="stop_南京6路樱驼花园" linkRefId="南京6路樱驼花园" x="13228510.64662367" y="3774404.5310115423"/>
+			<stopFacility id="stop_南京6路樱驼花园_r" linkRefId="南京6路樱驼花园_r" x="13228515.64662367" y="3774409.5310115423"/>
+			<stopFacility id="stop_南京6路经五立交" linkRefId="南京6路经五立交" x="13228311.050776677" y="3775896.7828171076"/>
+			<stopFacility id="stop_南京6路经五立交_r" linkRefId="南京6路经五立交_r" x="13228316.050776677" y="3775901.7828171076"/>
+			<stopFacility id="stop_南京6路墨香路" linkRefId="南京6路墨香路" x="13228448.641667297" y="3776418.595710519"/>
+			<stopFacility id="stop_南京6路墨香路_r" linkRefId="南京6路墨香路_r" x="13228453.641667297" y="3776423.595710519"/>
+			<stopFacility id="stop_南京6路小营村" linkRefId="南京6路小营村" x="13228564.079979252" y="3776973.0221275515"/>
+			<stopFacility id="stop_南京6路小营村_r" linkRefId="南京6路小营村_r" x="13228569.079979252" y="3776978.0221275515"/>
+			<stopFacility id="stop_南京6路合作村" linkRefId="南京6路合作村" x="13228571.761024117" y="3777406.173267474"/>
+			<stopFacility id="stop_南京6路合作村_r" linkRefId="南京6路合作村_r" x="13228576.761024117" y="3777411.173267474"/>
+			<stopFacility id="stop_南京6路万寿村" linkRefId="南京6路万寿村" x="13228583.672209632" y="3777896.509762852"/>
+			<stopFacility id="stop_南京6路万寿村_r" linkRefId="南京6路万寿村_r" x="13228588.672209632" y="3777901.509762852"/>
+			<stopFacility id="stop_南京6路迈化路·墨香路北" linkRefId="南京6路迈化路·墨香路北" x="13228472.352718838" y="3778553.783974703"/>
+			<stopFacility id="stop_南京6路迈化路·墨香路北_r" linkRefId="南京6路迈化路·墨香路北_r" x="13228477.352718838" y="3778558.783974703"/>
+			<stopFacility id="stop_南京6路土岗" linkRefId="南京6路土岗" x="13228100.434300097" y="3778436.9413563157"/>
+			<stopFacility id="stop_南京6路土岗_r" linkRefId="南京6路土岗_r" x="13228105.434300097" y="3778441.9413563157"/>
+			<stopFacility id="stop_南京6路大瓜园" linkRefId="南京6路大瓜园" x="13227527.138922514" y="3778653.0156634436"/>
+			<stopFacility id="stop_南京6路大瓜园_r" linkRefId="南京6路大瓜园_r" x="13227532.138922514" y="3778658.0156634436"/>
+		</transitStops>
+		<transitLine id="南京3号线">
+			<transitRoute id="南京3号线1">
+				<transportMode>pt</transportMode>
+				<routeProfile>
+					<stop awaitDeparture="false" departureOffset="00:00:30" refId="stop_南京3号线林场"/>
+					<stop arrivalOffset="00:02:30" awaitDeparture="false" departureOffset="00:02:30" refId="stop_南京3号线星火路"/>
+					<stop arrivalOffset="00:04:30" awaitDeparture="false" departureOffset="00:04:30" refId="stop_南京3号线东大成贤学院"/>
+					<stop arrivalOffset="00:06:30" awaitDeparture="false" departureOffset="00:06:30" refId="stop_南京3号线泰冯路"/>
+					<stop arrivalOffset="00:08:30" awaitDeparture="false" departureOffset="00:08:30" refId="stop_南京3号线天润城"/>
+					<stop arrivalOffset="00:10:30" awaitDeparture="false" departureOffset="00:10:30" refId="stop_南京3号线柳洲东路"/>
+					<stop arrivalOffset="00:12:30" awaitDeparture="false" departureOffset="00:12:30" refId="stop_南京3号线上元门"/>
+					<stop arrivalOffset="00:14:30" awaitDeparture="false" departureOffset="00:14:30" refId="stop_南京3号线五塘广场"/>
+					<stop arrivalOffset="00:16:30" awaitDeparture="false" departureOffset="00:16:30" refId="stop_南京3号线小市"/>
+					<stop arrivalOffset="00:18:30" awaitDeparture="false" departureOffset="00:18:30" refId="stop_南京3号线南京站"/>
+					<stop arrivalOffset="00:20:30" awaitDeparture="false" departureOffset="00:20:30" refId="stop_南京3号线南京林业大学·新庄"/>
+					<stop arrivalOffset="00:22:30" awaitDeparture="false" departureOffset="00:22:30" refId="stop_南京3号线鸡鸣寺"/>
+					<stop arrivalOffset="00:24:30" awaitDeparture="false" departureOffset="00:24:30" refId="stop_南京3号线浮桥"/>
+					<stop arrivalOffset="00:26:30" awaitDeparture="false" departureOffset="00:26:30" refId="stop_南京3号线大行宫"/>
+					<stop arrivalOffset="00:28:30" awaitDeparture="false" departureOffset="00:28:30" refId="stop_南京3号线常府街"/>
+					<stop arrivalOffset="00:30:30" awaitDeparture="false" departureOffset="00:30:30" refId="stop_南京3号线夫子庙"/>
+					<stop arrivalOffset="00:32:30" awaitDeparture="false" departureOffset="00:32:30" refId="stop_南京3号线武定门"/>
+					<stop arrivalOffset="00:34:30" awaitDeparture="false" departureOffset="00:34:30" refId="stop_南京3号线雨花门"/>
+					<stop arrivalOffset="00:36:30" awaitDeparture="false" departureOffset="00:36:30" refId="stop_南京3号线卡子门"/>
+					<stop arrivalOffset="00:38:30" awaitDeparture="false" departureOffset="00:38:30" refId="stop_南京3号线大明路"/>
+					<stop arrivalOffset="00:40:30" awaitDeparture="false" departureOffset="00:40:30" refId="stop_南京3号线明发广场"/>
+					<stop arrivalOffset="00:42:30" awaitDeparture="false" departureOffset="00:42:30" refId="stop_南京3号线南京南站"/>
+					<stop arrivalOffset="00:44:30" awaitDeparture="false" departureOffset="00:44:30" refId="stop_南京3号线宏运大道"/>
+					<stop arrivalOffset="00:46:30" awaitDeparture="false" departureOffset="00:46:30" refId="stop_南京3号线胜太西路"/>
+					<stop arrivalOffset="00:48:30" awaitDeparture="false" departureOffset="00:48:30" refId="stop_南京3号线天元西路"/>
+					<stop arrivalOffset="00:50:30" awaitDeparture="false" departureOffset="00:50:30" refId="stop_南京3号线九龙湖"/>
+					<stop arrivalOffset="00:52:30" awaitDeparture="false" departureOffset="00:52:30" refId="stop_南京3号线诚信大道"/>
+					<stop arrivalOffset="00:54:30" awaitDeparture="false" departureOffset="00:54:30" refId="stop_南京3号线东大九龙湖校区"/>
+					<stop arrivalOffset="00:56:30" awaitDeparture="false" refId="stop_南京3号线秣周东路"/>
+				</routeProfile>
+				<route>
+					<link refId="南京3号线林场"/>
+					<link refId="from_南京3号线林场_B_to_南京3号线星火路_A"/>
+					<link refId="南京3号线星火路"/>
+					<link refId="from_南京3号线星火路_B_to_南京3号线东大成贤学院_A"/>
+					<link refId="南京3号线东大成贤学院"/>
+					<link refId="from_南京3号线东大成贤学院_B_to_南京3号线泰冯路_A"/>
+					<link refId="南京3号线泰冯路"/>
+					<link refId="from_南京3号线泰冯路_B_to_南京3号线天润城_A"/>
+					<link refId="南京3号线天润城"/>
+					<link refId="from_南京3号线天润城_B_to_南京3号线柳洲东路_A"/>
+					<link refId="南京3号线柳洲东路"/>
+					<link refId="from_南京3号线柳洲东路_B_to_南京3号线上元门_A"/>
+					<link refId="南京3号线上元门"/>
+					<link refId="from_南京3号线上元门_B_to_南京3号线五塘广场_A"/>
+					<link refId="南京3号线五塘广场"/>
+					<link refId="from_南京3号线五塘广场_B_to_南京3号线小市_A"/>
+					<link refId="南京3号线小市"/>
+					<link refId="from_南京3号线小市_B_to_南京3号线南京站_A"/>
+					<link refId="南京3号线南京站"/>
+					<link refId="from_南京3号线南京站_B_to_南京3号线南京林业大学·新庄_A"/>
+					<link refId="南京3号线南京林业大学·新庄"/>
+					<link refId="from_南京3号线南京林业大学·新庄_B_to_南京3号线鸡鸣寺_A"/>
+					<link refId="南京3号线鸡鸣寺"/>
+					<link refId="from_南京3号线鸡鸣寺_B_to_南京3号线浮桥_A"/>
+					<link refId="南京3号线浮桥"/>
+					<link refId="from_南京3号线浮桥_B_to_南京3号线大行宫_A"/>
+					<link refId="南京3号线大行宫"/>
+					<link refId="from_南京3号线大行宫_B_to_南京3号线常府街_A"/>
+					<link refId="南京3号线常府街"/>
+					<link refId="from_南京3号线常府街_B_to_南京3号线夫子庙_A"/>
+					<link refId="南京3号线夫子庙"/>
+					<link refId="from_南京3号线夫子庙_B_to_南京3号线武定门_A"/>
+					<link refId="南京3号线武定门"/>
+					<link refId="from_南京3号线武定门_B_to_南京3号线雨花门_A"/>
+					<link refId="南京3号线雨花门"/>
+					<link refId="from_南京3号线雨花门_B_to_南京3号线卡子门_A"/>
+					<link refId="南京3号线卡子门"/>
+					<link refId="from_南京3号线卡子门_B_to_南京3号线大明路_A"/>
+					<link refId="南京3号线大明路"/>
+					<link refId="from_南京3号线大明路_B_to_南京3号线明发广场_A"/>
+					<link refId="南京3号线明发广场"/>
+					<link refId="from_南京3号线明发广场_B_to_南京3号线南京南站_A"/>
+					<link refId="南京3号线南京南站"/>
+					<link refId="from_南京3号线南京南站_B_to_南京3号线宏运大道_A"/>
+					<link refId="南京3号线宏运大道"/>
+					<link refId="from_南京3号线宏运大道_B_to_南京3号线胜太西路_A"/>
+					<link refId="南京3号线胜太西路"/>
+					<link refId="from_南京3号线胜太西路_B_to_南京3号线天元西路_A"/>
+					<link refId="南京3号线天元西路"/>
+					<link refId="from_南京3号线天元西路_B_to_南京3号线九龙湖_A"/>
+					<link refId="南京3号线九龙湖"/>
+					<link refId="from_南京3号线九龙湖_B_to_南京3号线诚信大道_A"/>
+					<link refId="南京3号线诚信大道"/>
+					<link refId="from_南京3号线诚信大道_B_to_南京3号线东大九龙湖校区_A"/>
+					<link refId="南京3号线东大九龙湖校区"/>
+					<link refId="from_南京3号线东大九龙湖校区_B_to_南京3号线秣周东路_A"/>
+					<link refId="南京3号线秣周东路"/>
+				</route>
+				<departures>
+					<departure departureTime="06:00:00" id="0" vehicleRefId="00"/>
+					<departure departureTime="06:10:00" id="1" vehicleRefId="01"/>
+					<departure departureTime="06:20:00" id="2" vehicleRefId="02"/>
+					<departure departureTime="06:30:00" id="3" vehicleRefId="03"/>
+					<departure departureTime="06:40:00" id="4" vehicleRefId="04"/>
+					<departure departureTime="06:50:00" id="5" vehicleRefId="05"/>
+					<departure departureTime="07:00:00" id="6" vehicleRefId="06"/>
+					<departure departureTime="07:10:00" id="7" vehicleRefId="07"/>
+					<departure departureTime="07:20:00" id="8" vehicleRefId="08"/>
+					<departure departureTime="07:30:00" id="9" vehicleRefId="09"/>
+					<departure departureTime="07:40:00" id="10" vehicleRefId="10"/>
+					<departure departureTime="07:50:00" id="11" vehicleRefId="11"/>
+					<departure departureTime="08:00:00" id="12" vehicleRefId="12"/>
+					<departure departureTime="08:10:00" id="13" vehicleRefId="13"/>
+					<departure departureTime="08:20:00" id="14" vehicleRefId="14"/>
+					<departure departureTime="08:30:00" id="15" vehicleRefId="15"/>
+					<departure departureTime="08:40:00" id="16" vehicleRefId="16"/>
+					<departure departureTime="08:50:00" id="17" vehicleRefId="17"/>
+					<departure departureTime="09:00:00" id="18" vehicleRefId="18"/>
+					<departure departureTime="09:10:00" id="19" vehicleRefId="19"/>
+					<departure departureTime="09:20:00" id="20" vehicleRefId="20"/>
+					<departure departureTime="09:30:00" id="21" vehicleRefId="21"/>
+					<departure departureTime="09:40:00" id="22" vehicleRefId="22"/>
+					<departure departureTime="09:50:00" id="23" vehicleRefId="23"/>
+					<departure departureTime="10:00:00" id="24" vehicleRefId="24"/>
+					<departure departureTime="10:10:00" id="25" vehicleRefId="00"/>
+					<departure departureTime="10:20:00" id="26" vehicleRefId="01"/>
+					<departure departureTime="10:30:00" id="27" vehicleRefId="02"/>
+					<departure departureTime="10:40:00" id="28" vehicleRefId="03"/>
+					<departure departureTime="10:50:00" id="29" vehicleRefId="04"/>
+					<departure departureTime="11:00:00" id="30" vehicleRefId="05"/>
+					<departure departureTime="11:10:00" id="31" vehicleRefId="06"/>
+					<departure departureTime="11:20:00" id="32" vehicleRefId="07"/>
+					<departure departureTime="11:30:00" id="33" vehicleRefId="08"/>
+					<departure departureTime="11:40:00" id="34" vehicleRefId="09"/>
+					<departure departureTime="11:50:00" id="35" vehicleRefId="10"/>
+					<departure departureTime="12:00:00" id="36" vehicleRefId="11"/>
+					<departure departureTime="12:10:00" id="37" vehicleRefId="12"/>
+					<departure departureTime="12:20:00" id="38" vehicleRefId="13"/>
+					<departure departureTime="12:30:00" id="39" vehicleRefId="14"/>
+					<departure departureTime="12:40:00" id="40" vehicleRefId="15"/>
+					<departure departureTime="12:50:00" id="41" vehicleRefId="16"/>
+					<departure departureTime="13:00:00" id="42" vehicleRefId="17"/>
+					<departure departureTime="13:10:00" id="43" vehicleRefId="18"/>
+					<departure departureTime="13:20:00" id="44" vehicleRefId="19"/>
+					<departure departureTime="13:30:00" id="45" vehicleRefId="20"/>
+					<departure departureTime="13:40:00" id="46" vehicleRefId="21"/>
+					<departure departureTime="13:50:00" id="47" vehicleRefId="22"/>
+					<departure departureTime="14:00:00" id="48" vehicleRefId="23"/>
+					<departure departureTime="14:10:00" id="49" vehicleRefId="24"/>
+					<departure departureTime="14:20:00" id="50" vehicleRefId="00"/>
+					<departure departureTime="14:30:00" id="51" vehicleRefId="01"/>
+					<departure departureTime="14:40:00" id="52" vehicleRefId="02"/>
+					<departure departureTime="14:50:00" id="53" vehicleRefId="03"/>
+					<departure departureTime="15:00:00" id="54" vehicleRefId="04"/>
+					<departure departureTime="15:10:00" id="55" vehicleRefId="05"/>
+					<departure departureTime="15:20:00" id="56" vehicleRefId="06"/>
+					<departure departureTime="15:30:00" id="57" vehicleRefId="07"/>
+					<departure departureTime="15:40:00" id="58" vehicleRefId="08"/>
+					<departure departureTime="15:50:00" id="59" vehicleRefId="09"/>
+					<departure departureTime="16:00:00" id="60" vehicleRefId="10"/>
+					<departure departureTime="16:10:00" id="61" vehicleRefId="11"/>
+					<departure departureTime="16:20:00" id="62" vehicleRefId="12"/>
+					<departure departureTime="16:30:00" id="63" vehicleRefId="13"/>
+					<departure departureTime="16:40:00" id="64" vehicleRefId="14"/>
+					<departure departureTime="16:50:00" id="65" vehicleRefId="15"/>
+					<departure departureTime="17:00:00" id="66" vehicleRefId="16"/>
+					<departure departureTime="17:10:00" id="67" vehicleRefId="17"/>
+					<departure departureTime="17:20:00" id="68" vehicleRefId="18"/>
+					<departure departureTime="17:30:00" id="69" vehicleRefId="19"/>
+					<departure departureTime="17:40:00" id="70" vehicleRefId="20"/>
+					<departure departureTime="17:50:00" id="71" vehicleRefId="21"/>
+					<departure departureTime="18:00:00" id="72" vehicleRefId="22"/>
+					<departure departureTime="18:10:00" id="73" vehicleRefId="23"/>
+					<departure departureTime="18:20:00" id="74" vehicleRefId="24"/>
+					<departure departureTime="18:30:00" id="75" vehicleRefId="00"/>
+					<departure departureTime="18:40:00" id="76" vehicleRefId="01"/>
+					<departure departureTime="18:50:00" id="77" vehicleRefId="02"/>
+					<departure departureTime="19:00:00" id="78" vehicleRefId="03"/>
+					<departure departureTime="19:10:00" id="79" vehicleRefId="04"/>
+					<departure departureTime="19:20:00" id="80" vehicleRefId="05"/>
+					<departure departureTime="19:30:00" id="81" vehicleRefId="06"/>
+					<departure departureTime="19:40:00" id="82" vehicleRefId="07"/>
+					<departure departureTime="19:50:00" id="83" vehicleRefId="08"/>
+					<departure departureTime="20:00:00" id="84" vehicleRefId="09"/>
+					<departure departureTime="20:10:00" id="85" vehicleRefId="10"/>
+					<departure departureTime="20:20:00" id="86" vehicleRefId="11"/>
+					<departure departureTime="20:30:00" id="87" vehicleRefId="12"/>
+					<departure departureTime="20:40:00" id="88" vehicleRefId="13"/>
+					<departure departureTime="20:50:00" id="89" vehicleRefId="14"/>
+					<departure departureTime="21:00:00" id="90" vehicleRefId="15"/>
+					<departure departureTime="21:10:00" id="91" vehicleRefId="16"/>
+					<departure departureTime="21:20:00" id="92" vehicleRefId="17"/>
+					<departure departureTime="21:30:00" id="93" vehicleRefId="18"/>
+					<departure departureTime="21:40:00" id="94" vehicleRefId="19"/>
+					<departure departureTime="21:50:00" id="95" vehicleRefId="20"/>
+					<departure departureTime="22:00:00" id="96" vehicleRefId="21"/>
+					<departure departureTime="22:10:00" id="97" vehicleRefId="22"/>
+					<departure departureTime="22:20:00" id="98" vehicleRefId="23"/>
+					<departure departureTime="22:30:00" id="99" vehicleRefId="24"/>
+					<departure departureTime="22:40:00" id="100" vehicleRefId="00"/>
+					<departure departureTime="22:50:00" id="101" vehicleRefId="01"/>
+					<departure departureTime="23:00:00" id="102" vehicleRefId="02"/>
+				</departures>
+			</transitRoute>
+			<transitRoute id="南京3号线2">
+				<transportMode>pt</transportMode>
+				<routeProfile>
+					<stop awaitDeparture="false" departureOffset="00:00:30" refId="stop_南京3号线秣周东路_r"/>
+					<stop arrivalOffset="00:02:30" awaitDeparture="false" departureOffset="00:02:30" refId="stop_南京3号线东大九龙湖校区_r"/>
+					<stop arrivalOffset="00:04:30" awaitDeparture="false" departureOffset="00:04:30" refId="stop_南京3号线诚信大道_r"/>
+					<stop arrivalOffset="00:06:30" awaitDeparture="false" departureOffset="00:06:30" refId="stop_南京3号线九龙湖_r"/>
+					<stop arrivalOffset="00:08:30" awaitDeparture="false" departureOffset="00:08:30" refId="stop_南京3号线天元西路_r"/>
+					<stop arrivalOffset="00:10:30" awaitDeparture="false" departureOffset="00:10:30" refId="stop_南京3号线胜太西路_r"/>
+					<stop arrivalOffset="00:12:30" awaitDeparture="false" departureOffset="00:12:30" refId="stop_南京3号线宏运大道_r"/>
+					<stop arrivalOffset="00:14:30" awaitDeparture="false" departureOffset="00:14:30" refId="stop_南京3号线南京南站_r"/>
+					<stop arrivalOffset="00:16:30" awaitDeparture="false" departureOffset="00:16:30" refId="stop_南京3号线明发广场_r"/>
+					<stop arrivalOffset="00:18:30" awaitDeparture="false" departureOffset="00:18:30" refId="stop_南京3号线大明路_r"/>
+					<stop arrivalOffset="00:20:30" awaitDeparture="false" departureOffset="00:20:30" refId="stop_南京3号线卡子门_r"/>
+					<stop arrivalOffset="00:22:30" awaitDeparture="false" departureOffset="00:22:30" refId="stop_南京3号线雨花门_r"/>
+					<stop arrivalOffset="00:24:30" awaitDeparture="false" departureOffset="00:24:30" refId="stop_南京3号线武定门_r"/>
+					<stop arrivalOffset="00:26:30" awaitDeparture="false" departureOffset="00:26:30" refId="stop_南京3号线夫子庙_r"/>
+					<stop arrivalOffset="00:28:30" awaitDeparture="false" departureOffset="00:28:30" refId="stop_南京3号线常府街_r"/>
+					<stop arrivalOffset="00:30:30" awaitDeparture="false" departureOffset="00:30:30" refId="stop_南京3号线大行宫_r"/>
+					<stop arrivalOffset="00:32:30" awaitDeparture="false" departureOffset="00:32:30" refId="stop_南京3号线浮桥_r"/>
+					<stop arrivalOffset="00:34:30" awaitDeparture="false" departureOffset="00:34:30" refId="stop_南京3号线鸡鸣寺_r"/>
+					<stop arrivalOffset="00:36:30" awaitDeparture="false" departureOffset="00:36:30" refId="stop_南京3号线南京林业大学·新庄_r"/>
+					<stop arrivalOffset="00:38:30" awaitDeparture="false" departureOffset="00:38:30" refId="stop_南京3号线南京站_r"/>
+					<stop arrivalOffset="00:40:30" awaitDeparture="false" departureOffset="00:40:30" refId="stop_南京3号线小市_r"/>
+					<stop arrivalOffset="00:42:30" awaitDeparture="false" departureOffset="00:42:30" refId="stop_南京3号线五塘广场_r"/>
+					<stop arrivalOffset="00:44:30" awaitDeparture="false" departureOffset="00:44:30" refId="stop_南京3号线上元门_r"/>
+					<stop arrivalOffset="00:46:30" awaitDeparture="false" departureOffset="00:46:30" refId="stop_南京3号线柳洲东路_r"/>
+					<stop arrivalOffset="00:48:30" awaitDeparture="false" departureOffset="00:48:30" refId="stop_南京3号线天润城_r"/>
+					<stop arrivalOffset="00:50:30" awaitDeparture="false" departureOffset="00:50:30" refId="stop_南京3号线泰冯路_r"/>
+					<stop arrivalOffset="00:52:30" awaitDeparture="false" departureOffset="00:52:30" refId="stop_南京3号线东大成贤学院_r"/>
+					<stop arrivalOffset="00:54:30" awaitDeparture="false" departureOffset="00:54:30" refId="stop_南京3号线星火路_r"/>
+					<stop arrivalOffset="00:56:30" awaitDeparture="false" refId="stop_南京3号线林场_r"/>
+				</routeProfile>
+				<route>
+					<link refId="南京3号线秣周东路_r"/>
+					<link refId="from_南京3号线东大九龙湖校区_B_to_南京3号线秣周东路_A_r"/>
+					<link refId="南京3号线东大九龙湖校区_r"/>
+					<link refId="from_南京3号线诚信大道_B_to_南京3号线东大九龙湖校区_A_r"/>
+					<link refId="南京3号线诚信大道_r"/>
+					<link refId="from_南京3号线九龙湖_B_to_南京3号线诚信大道_A_r"/>
+					<link refId="南京3号线九龙湖_r"/>
+					<link refId="from_南京3号线天元西路_B_to_南京3号线九龙湖_A_r"/>
+					<link refId="南京3号线天元西路_r"/>
+					<link refId="from_南京3号线胜太西路_B_to_南京3号线天元西路_A_r"/>
+					<link refId="南京3号线胜太西路_r"/>
+					<link refId="from_南京3号线宏运大道_B_to_南京3号线胜太西路_A_r"/>
+					<link refId="南京3号线宏运大道_r"/>
+					<link refId="from_南京3号线南京南站_B_to_南京3号线宏运大道_A_r"/>
+					<link refId="南京3号线南京南站_r"/>
+					<link refId="from_南京3号线明发广场_B_to_南京3号线南京南站_A_r"/>
+					<link refId="南京3号线明发广场_r"/>
+					<link refId="from_南京3号线大明路_B_to_南京3号线明发广场_A_r"/>
+					<link refId="南京3号线大明路_r"/>
+					<link refId="from_南京3号线卡子门_B_to_南京3号线大明路_A_r"/>
+					<link refId="南京3号线卡子门_r"/>
+					<link refId="from_南京3号线雨花门_B_to_南京3号线卡子门_A_r"/>
+					<link refId="南京3号线雨花门_r"/>
+					<link refId="from_南京3号线武定门_B_to_南京3号线雨花门_A_r"/>
+					<link refId="南京3号线武定门_r"/>
+					<link refId="from_南京3号线夫子庙_B_to_南京3号线武定门_A_r"/>
+					<link refId="南京3号线夫子庙_r"/>
+					<link refId="from_南京3号线常府街_B_to_南京3号线夫子庙_A_r"/>
+					<link refId="南京3号线常府街_r"/>
+					<link refId="from_南京3号线大行宫_B_to_南京3号线常府街_A_r"/>
+					<link refId="南京3号线大行宫_r"/>
+					<link refId="from_南京3号线浮桥_B_to_南京3号线大行宫_A_r"/>
+					<link refId="南京3号线浮桥_r"/>
+					<link refId="from_南京3号线鸡鸣寺_B_to_南京3号线浮桥_A_r"/>
+					<link refId="南京3号线鸡鸣寺_r"/>
+					<link refId="from_南京3号线南京林业大学·新庄_B_to_南京3号线鸡鸣寺_A_r"/>
+					<link refId="南京3号线南京林业大学·新庄_r"/>
+					<link refId="from_南京3号线南京站_B_to_南京3号线南京林业大学·新庄_A_r"/>
+					<link refId="南京3号线南京站_r"/>
+					<link refId="from_南京3号线小市_B_to_南京3号线南京站_A_r"/>
+					<link refId="南京3号线小市_r"/>
+					<link refId="from_南京3号线五塘广场_B_to_南京3号线小市_A_r"/>
+					<link refId="南京3号线五塘广场_r"/>
+					<link refId="from_南京3号线上元门_B_to_南京3号线五塘广场_A_r"/>
+					<link refId="南京3号线上元门_r"/>
+					<link refId="from_南京3号线柳洲东路_B_to_南京3号线上元门_A_r"/>
+					<link refId="南京3号线柳洲东路_r"/>
+					<link refId="from_南京3号线天润城_B_to_南京3号线柳洲东路_A_r"/>
+					<link refId="南京3号线天润城_r"/>
+					<link refId="from_南京3号线泰冯路_B_to_南京3号线天润城_A_r"/>
+					<link refId="南京3号线泰冯路_r"/>
+					<link refId="from_南京3号线东大成贤学院_B_to_南京3号线泰冯路_A_r"/>
+					<link refId="南京3号线东大成贤学院_r"/>
+					<link refId="from_南京3号线星火路_B_to_南京3号线东大成贤学院_A_r"/>
+					<link refId="南京3号线星火路_r"/>
+					<link refId="from_南京3号线林场_B_to_南京3号线星火路_A_r"/>
+					<link refId="南京3号线林场_r"/>
+				</route>
+				<departures>
+					<departure departureTime="06:00:00" id="103" vehicleRefId="25"/>
+					<departure departureTime="06:10:00" id="104" vehicleRefId="26"/>
+					<departure departureTime="06:20:00" id="105" vehicleRefId="27"/>
+					<departure departureTime="06:30:00" id="106" vehicleRefId="28"/>
+					<departure departureTime="06:40:00" id="107" vehicleRefId="29"/>
+					<departure departureTime="06:50:00" id="108" vehicleRefId="30"/>
+					<departure departureTime="07:00:00" id="109" vehicleRefId="31"/>
+					<departure departureTime="07:10:00" id="110" vehicleRefId="32"/>
+					<departure departureTime="07:20:00" id="111" vehicleRefId="33"/>
+					<departure departureTime="07:30:00" id="112" vehicleRefId="34"/>
+					<departure departureTime="07:40:00" id="113" vehicleRefId="35"/>
+					<departure departureTime="07:50:00" id="114" vehicleRefId="36"/>
+					<departure departureTime="08:00:00" id="115" vehicleRefId="37"/>
+					<departure departureTime="08:10:00" id="116" vehicleRefId="38"/>
+					<departure departureTime="08:20:00" id="117" vehicleRefId="39"/>
+					<departure departureTime="08:30:00" id="118" vehicleRefId="40"/>
+					<departure departureTime="08:40:00" id="119" vehicleRefId="41"/>
+					<departure departureTime="08:50:00" id="120" vehicleRefId="42"/>
+					<departure departureTime="09:00:00" id="121" vehicleRefId="43"/>
+					<departure departureTime="09:10:00" id="122" vehicleRefId="44"/>
+					<departure departureTime="09:20:00" id="123" vehicleRefId="45"/>
+					<departure departureTime="09:30:00" id="124" vehicleRefId="46"/>
+					<departure departureTime="09:40:00" id="125" vehicleRefId="47"/>
+					<departure departureTime="09:50:00" id="126" vehicleRefId="48"/>
+					<departure departureTime="10:00:00" id="127" vehicleRefId="49"/>
+					<departure departureTime="10:10:00" id="128" vehicleRefId="25"/>
+					<departure departureTime="10:20:00" id="129" vehicleRefId="26"/>
+					<departure departureTime="10:30:00" id="130" vehicleRefId="27"/>
+					<departure departureTime="10:40:00" id="131" vehicleRefId="28"/>
+					<departure departureTime="10:50:00" id="132" vehicleRefId="29"/>
+					<departure departureTime="11:00:00" id="133" vehicleRefId="30"/>
+					<departure departureTime="11:10:00" id="134" vehicleRefId="31"/>
+					<departure departureTime="11:20:00" id="135" vehicleRefId="32"/>
+					<departure departureTime="11:30:00" id="136" vehicleRefId="33"/>
+					<departure departureTime="11:40:00" id="137" vehicleRefId="34"/>
+					<departure departureTime="11:50:00" id="138" vehicleRefId="35"/>
+					<departure departureTime="12:00:00" id="139" vehicleRefId="36"/>
+					<departure departureTime="12:10:00" id="140" vehicleRefId="37"/>
+					<departure departureTime="12:20:00" id="141" vehicleRefId="38"/>
+					<departure departureTime="12:30:00" id="142" vehicleRefId="39"/>
+					<departure departureTime="12:40:00" id="143" vehicleRefId="40"/>
+					<departure departureTime="12:50:00" id="144" vehicleRefId="41"/>
+					<departure departureTime="13:00:00" id="145" vehicleRefId="42"/>
+					<departure departureTime="13:10:00" id="146" vehicleRefId="43"/>
+					<departure departureTime="13:20:00" id="147" vehicleRefId="44"/>
+					<departure departureTime="13:30:00" id="148" vehicleRefId="45"/>
+					<departure departureTime="13:40:00" id="149" vehicleRefId="46"/>
+					<departure departureTime="13:50:00" id="150" vehicleRefId="47"/>
+					<departure departureTime="14:00:00" id="151" vehicleRefId="48"/>
+					<departure departureTime="14:10:00" id="152" vehicleRefId="49"/>
+					<departure departureTime="14:20:00" id="153" vehicleRefId="25"/>
+					<departure departureTime="14:30:00" id="154" vehicleRefId="26"/>
+					<departure departureTime="14:40:00" id="155" vehicleRefId="27"/>
+					<departure departureTime="14:50:00" id="156" vehicleRefId="28"/>
+					<departure departureTime="15:00:00" id="157" vehicleRefId="29"/>
+					<departure departureTime="15:10:00" id="158" vehicleRefId="30"/>
+					<departure departureTime="15:20:00" id="159" vehicleRefId="31"/>
+					<departure departureTime="15:30:00" id="160" vehicleRefId="32"/>
+					<departure departureTime="15:40:00" id="161" vehicleRefId="33"/>
+					<departure departureTime="15:50:00" id="162" vehicleRefId="34"/>
+					<departure departureTime="16:00:00" id="163" vehicleRefId="35"/>
+					<departure departureTime="16:10:00" id="164" vehicleRefId="36"/>
+					<departure departureTime="16:20:00" id="165" vehicleRefId="37"/>
+					<departure departureTime="16:30:00" id="166" vehicleRefId="38"/>
+					<departure departureTime="16:40:00" id="167" vehicleRefId="39"/>
+					<departure departureTime="16:50:00" id="168" vehicleRefId="40"/>
+					<departure departureTime="17:00:00" id="169" vehicleRefId="41"/>
+					<departure departureTime="17:10:00" id="170" vehicleRefId="42"/>
+					<departure departureTime="17:20:00" id="171" vehicleRefId="43"/>
+					<departure departureTime="17:30:00" id="172" vehicleRefId="44"/>
+					<departure departureTime="17:40:00" id="173" vehicleRefId="45"/>
+					<departure departureTime="17:50:00" id="174" vehicleRefId="46"/>
+					<departure departureTime="18:00:00" id="175" vehicleRefId="47"/>
+					<departure departureTime="18:10:00" id="176" vehicleRefId="48"/>
+					<departure departureTime="18:20:00" id="177" vehicleRefId="49"/>
+					<departure departureTime="18:30:00" id="178" vehicleRefId="25"/>
+					<departure departureTime="18:40:00" id="179" vehicleRefId="26"/>
+					<departure departureTime="18:50:00" id="180" vehicleRefId="27"/>
+					<departure departureTime="19:00:00" id="181" vehicleRefId="28"/>
+					<departure departureTime="19:10:00" id="182" vehicleRefId="29"/>
+					<departure departureTime="19:20:00" id="183" vehicleRefId="30"/>
+					<departure departureTime="19:30:00" id="184" vehicleRefId="31"/>
+					<departure departureTime="19:40:00" id="185" vehicleRefId="32"/>
+					<departure departureTime="19:50:00" id="186" vehicleRefId="33"/>
+					<departure departureTime="20:00:00" id="187" vehicleRefId="34"/>
+					<departure departureTime="20:10:00" id="188" vehicleRefId="35"/>
+					<departure departureTime="20:20:00" id="189" vehicleRefId="36"/>
+					<departure departureTime="20:30:00" id="190" vehicleRefId="37"/>
+					<departure departureTime="20:40:00" id="191" vehicleRefId="38"/>
+					<departure departureTime="20:50:00" id="192" vehicleRefId="39"/>
+					<departure departureTime="21:00:00" id="193" vehicleRefId="40"/>
+					<departure departureTime="21:10:00" id="194" vehicleRefId="41"/>
+					<departure departureTime="21:20:00" id="195" vehicleRefId="42"/>
+					<departure departureTime="21:30:00" id="196" vehicleRefId="43"/>
+					<departure departureTime="21:40:00" id="197" vehicleRefId="44"/>
+					<departure departureTime="21:50:00" id="198" vehicleRefId="45"/>
+					<departure departureTime="22:00:00" id="199" vehicleRefId="46"/>
+					<departure departureTime="22:10:00" id="200" vehicleRefId="47"/>
+					<departure departureTime="22:20:00" id="201" vehicleRefId="48"/>
+					<departure departureTime="22:30:00" id="202" vehicleRefId="49"/>
+					<departure departureTime="22:40:00" id="203" vehicleRefId="25"/>
+					<departure departureTime="22:50:00" id="204" vehicleRefId="26"/>
+					<departure departureTime="23:00:00" id="205" vehicleRefId="27"/>
+				</departures>
+			</transitRoute>
+		</transitLine>
+		<transitLine id="南京6路">
+			<transitRoute id="南京6路1">
+				<transportMode>pt</transportMode>
+				<routeProfile>
+					<stop awaitDeparture="false" departureOffset="00:00:30" refId="stop_南京6路清凉山公园"/>
+					<stop arrivalOffset="00:02:30" awaitDeparture="false" departureOffset="00:02:30" refId="stop_南京6路省人民医院1"/>
+					<stop arrivalOffset="00:04:30" awaitDeparture="false" departureOffset="00:04:30" refId="stop_南京6路脑科医院"/>
+					<stop arrivalOffset="00:06:30" awaitDeparture="false" departureOffset="00:06:30" refId="stop_南京6路随家仓"/>
+					<stop arrivalOffset="00:08:30" awaitDeparture="false" departureOffset="00:08:30" refId="stop_南京6路儿童医院"/>
+					<stop arrivalOffset="00:10:30" awaitDeparture="false" departureOffset="00:10:30" refId="stop_南京6路珠江路·中山路"/>
+					<stop arrivalOffset="00:12:30" awaitDeparture="false" departureOffset="00:12:30" refId="stop_南京6路莲花桥"/>
+					<stop arrivalOffset="00:14:30" awaitDeparture="false" departureOffset="00:14:30" refId="stop_南京6路浮桥西"/>
+					<stop arrivalOffset="00:16:30" awaitDeparture="false" departureOffset="00:16:30" refId="stop_南京6路浮桥"/>
+					<stop arrivalOffset="00:18:30" awaitDeparture="false" departureOffset="00:18:30" refId="stop_南京6路珠江路·小营"/>
+					<stop arrivalOffset="00:20:30" awaitDeparture="false" departureOffset="00:20:30" refId="stop_南京6路马标"/>
+					<stop arrivalOffset="00:22:30" awaitDeparture="false" departureOffset="00:22:30" refId="stop_南京6路后宰门"/>
+					<stop arrivalOffset="00:24:30" awaitDeparture="false" departureOffset="00:24:30" refId="stop_南京6路富贵山"/>
+					<stop arrivalOffset="00:26:30" awaitDeparture="false" departureOffset="00:26:30" refId="stop_南京6路板仓街·岗子村"/>
+					<stop arrivalOffset="00:28:30" awaitDeparture="false" departureOffset="00:28:30" refId="stop_南京6路板仓村"/>
+					<stop arrivalOffset="00:30:30" awaitDeparture="false" departureOffset="00:30:30" refId="stop_南京6路钟麓花园"/>
+					<stop arrivalOffset="00:32:30" awaitDeparture="false" departureOffset="00:32:30" refId="stop_南京6路板仓街·花园路"/>
+					<stop arrivalOffset="00:34:30" awaitDeparture="false" departureOffset="00:34:30" refId="stop_南京6路樱驼村"/>
+					<stop arrivalOffset="00:36:30" awaitDeparture="false" departureOffset="00:36:30" refId="stop_南京6路蒋王庙"/>
+					<stop arrivalOffset="00:38:30" awaitDeparture="false" departureOffset="00:38:30" refId="stop_南京6路樱花路"/>
+					<stop arrivalOffset="00:40:30" awaitDeparture="false" departureOffset="00:40:30" refId="stop_南京6路樱驼花园"/>
+					<stop arrivalOffset="00:42:30" awaitDeparture="false" departureOffset="00:42:30" refId="stop_南京6路经五立交"/>
+					<stop arrivalOffset="00:44:30" awaitDeparture="false" departureOffset="00:44:30" refId="stop_南京6路墨香路"/>
+					<stop arrivalOffset="00:46:30" awaitDeparture="false" departureOffset="00:46:30" refId="stop_南京6路小营村"/>
+					<stop arrivalOffset="00:48:30" awaitDeparture="false" departureOffset="00:48:30" refId="stop_南京6路合作村"/>
+					<stop arrivalOffset="00:50:30" awaitDeparture="false" departureOffset="00:50:30" refId="stop_南京6路万寿村"/>
+					<stop arrivalOffset="00:52:30" awaitDeparture="false" departureOffset="00:52:30" refId="stop_南京6路迈化路·墨香路北"/>
+					<stop arrivalOffset="00:54:30" awaitDeparture="false" departureOffset="00:54:30" refId="stop_南京6路土岗"/>
+					<stop arrivalOffset="00:56:30" awaitDeparture="false" refId="stop_南京6路大瓜园"/>
+				</routeProfile>
+				<route>
+					<link refId="南京6路清凉山公园"/>
+					<link refId="from_南京6路清凉山公园_B_to_南京6路省人民医院1_A"/>
+					<link refId="南京6路省人民医院1"/>
+					<link refId="from_南京6路省人民医院1_B_to_南京6路脑科医院_A"/>
+					<link refId="南京6路脑科医院"/>
+					<link refId="from_南京6路脑科医院_B_to_南京6路随家仓_A"/>
+					<link refId="南京6路随家仓"/>
+					<link refId="from_南京6路随家仓_B_to_南京6路儿童医院_A"/>
+					<link refId="南京6路儿童医院"/>
+					<link refId="from_南京6路儿童医院_B_to_南京6路珠江路·中山路_A"/>
+					<link refId="南京6路珠江路·中山路"/>
+					<link refId="from_南京6路珠江路·中山路_B_to_南京6路莲花桥_A"/>
+					<link refId="南京6路莲花桥"/>
+					<link refId="from_南京6路莲花桥_B_to_南京6路浮桥西_A"/>
+					<link refId="南京6路浮桥西"/>
+					<link refId="from_南京6路浮桥西_B_to_南京6路浮桥_A"/>
+					<link refId="南京6路浮桥"/>
+					<link refId="from_南京6路浮桥_B_to_南京6路珠江路·小营_A"/>
+					<link refId="南京6路珠江路·小营"/>
+					<link refId="from_南京6路珠江路·小营_B_to_南京6路马标_A"/>
+					<link refId="南京6路马标"/>
+					<link refId="from_南京6路马标_B_to_南京6路后宰门_A"/>
+					<link refId="南京6路后宰门"/>
+					<link refId="from_南京6路后宰门_B_to_南京6路富贵山_A"/>
+					<link refId="南京6路富贵山"/>
+					<link refId="from_南京6路富贵山_B_to_南京6路板仓街·岗子村_A"/>
+					<link refId="南京6路板仓街·岗子村"/>
+					<link refId="from_南京6路板仓街·岗子村_B_to_南京6路板仓村_A"/>
+					<link refId="南京6路板仓村"/>
+					<link refId="from_南京6路板仓村_B_to_南京6路钟麓花园_A"/>
+					<link refId="南京6路钟麓花园"/>
+					<link refId="from_南京6路钟麓花园_B_to_南京6路板仓街·花园路_A"/>
+					<link refId="南京6路板仓街·花园路"/>
+					<link refId="from_南京6路板仓街·花园路_B_to_南京6路樱驼村_A"/>
+					<link refId="南京6路樱驼村"/>
+					<link refId="from_南京6路樱驼村_B_to_南京6路蒋王庙_A"/>
+					<link refId="南京6路蒋王庙"/>
+					<link refId="from_南京6路蒋王庙_B_to_南京6路樱花路_A"/>
+					<link refId="南京6路樱花路"/>
+					<link refId="from_南京6路樱花路_B_to_南京6路樱驼花园_A"/>
+					<link refId="南京6路樱驼花园"/>
+					<link refId="from_南京6路樱驼花园_B_to_南京6路经五立交_A"/>
+					<link refId="南京6路经五立交"/>
+					<link refId="from_南京6路经五立交_B_to_南京6路墨香路_A"/>
+					<link refId="南京6路墨香路"/>
+					<link refId="from_南京6路墨香路_B_to_南京6路小营村_A"/>
+					<link refId="南京6路小营村"/>
+					<link refId="from_南京6路小营村_B_to_南京6路合作村_A"/>
+					<link refId="南京6路合作村"/>
+					<link refId="from_南京6路合作村_B_to_南京6路万寿村_A"/>
+					<link refId="南京6路万寿村"/>
+					<link refId="from_南京6路万寿村_B_to_南京6路迈化路·墨香路北_A"/>
+					<link refId="南京6路迈化路·墨香路北"/>
+					<link refId="from_南京6路迈化路·墨香路北_B_to_南京6路土岗_A"/>
+					<link refId="南京6路土岗"/>
+					<link refId="from_南京6路土岗_B_to_南京6路大瓜园_A"/>
+					<link refId="南京6路大瓜园"/>
+				</route>
+				<departures>
+					<departure departureTime="06:00:00" id="206" vehicleRefId="1000"/>
+					<departure departureTime="06:05:00" id="207" vehicleRefId="1001"/>
+					<departure departureTime="06:10:00" id="208" vehicleRefId="1002"/>
+					<departure departureTime="06:15:00" id="209" vehicleRefId="1003"/>
+					<departure departureTime="06:20:00" id="210" vehicleRefId="1004"/>
+					<departure departureTime="06:25:00" id="211" vehicleRefId="1005"/>
+					<departure departureTime="06:30:00" id="212" vehicleRefId="1006"/>
+					<departure departureTime="06:35:00" id="213" vehicleRefId="1007"/>
+					<departure departureTime="06:40:00" id="214" vehicleRefId="1008"/>
+					<departure departureTime="06:45:00" id="215" vehicleRefId="1009"/>
+					<departure departureTime="06:50:00" id="216" vehicleRefId="1010"/>
+					<departure departureTime="06:55:00" id="217" vehicleRefId="1011"/>
+					<departure departureTime="07:00:00" id="218" vehicleRefId="1012"/>
+					<departure departureTime="07:05:00" id="219" vehicleRefId="1013"/>
+					<departure departureTime="07:10:00" id="220" vehicleRefId="1014"/>
+					<departure departureTime="07:15:00" id="221" vehicleRefId="1015"/>
+					<departure departureTime="07:20:00" id="222" vehicleRefId="1016"/>
+					<departure departureTime="07:25:00" id="223" vehicleRefId="1017"/>
+					<departure departureTime="07:30:00" id="224" vehicleRefId="1018"/>
+					<departure departureTime="07:35:00" id="225" vehicleRefId="1019"/>
+					<departure departureTime="07:40:00" id="226" vehicleRefId="1020"/>
+					<departure departureTime="07:45:00" id="227" vehicleRefId="1021"/>
+					<departure departureTime="07:50:00" id="228" vehicleRefId="1022"/>
+					<departure departureTime="07:55:00" id="229" vehicleRefId="1023"/>
+					<departure departureTime="08:00:00" id="230" vehicleRefId="1024"/>
+					<departure departureTime="08:05:00" id="231" vehicleRefId="1000"/>
+					<departure departureTime="08:10:00" id="232" vehicleRefId="1001"/>
+					<departure departureTime="08:15:00" id="233" vehicleRefId="1002"/>
+					<departure departureTime="08:20:00" id="234" vehicleRefId="1003"/>
+					<departure departureTime="08:25:00" id="235" vehicleRefId="1004"/>
+					<departure departureTime="08:30:00" id="236" vehicleRefId="1005"/>
+					<departure departureTime="08:35:00" id="237" vehicleRefId="1006"/>
+					<departure departureTime="08:40:00" id="238" vehicleRefId="1007"/>
+					<departure departureTime="08:45:00" id="239" vehicleRefId="1008"/>
+					<departure departureTime="08:50:00" id="240" vehicleRefId="1009"/>
+					<departure departureTime="08:55:00" id="241" vehicleRefId="1010"/>
+					<departure departureTime="09:00:00" id="242" vehicleRefId="1011"/>
+					<departure departureTime="09:05:00" id="243" vehicleRefId="1012"/>
+					<departure departureTime="09:10:00" id="244" vehicleRefId="1013"/>
+					<departure departureTime="09:15:00" id="245" vehicleRefId="1014"/>
+					<departure departureTime="09:20:00" id="246" vehicleRefId="1015"/>
+					<departure departureTime="09:25:00" id="247" vehicleRefId="1016"/>
+					<departure departureTime="09:30:00" id="248" vehicleRefId="1017"/>
+					<departure departureTime="09:35:00" id="249" vehicleRefId="1018"/>
+					<departure departureTime="09:40:00" id="250" vehicleRefId="1019"/>
+					<departure departureTime="09:45:00" id="251" vehicleRefId="1020"/>
+					<departure departureTime="09:50:00" id="252" vehicleRefId="1021"/>
+					<departure departureTime="09:55:00" id="253" vehicleRefId="1022"/>
+					<departure departureTime="10:00:00" id="254" vehicleRefId="1023"/>
+					<departure departureTime="10:05:00" id="255" vehicleRefId="1024"/>
+					<departure departureTime="10:10:00" id="256" vehicleRefId="1000"/>
+					<departure departureTime="10:15:00" id="257" vehicleRefId="1001"/>
+					<departure departureTime="10:20:00" id="258" vehicleRefId="1002"/>
+					<departure departureTime="10:25:00" id="259" vehicleRefId="1003"/>
+					<departure departureTime="10:30:00" id="260" vehicleRefId="1004"/>
+					<departure departureTime="10:35:00" id="261" vehicleRefId="1005"/>
+					<departure departureTime="10:40:00" id="262" vehicleRefId="1006"/>
+					<departure departureTime="10:45:00" id="263" vehicleRefId="1007"/>
+					<departure departureTime="10:50:00" id="264" vehicleRefId="1008"/>
+					<departure departureTime="10:55:00" id="265" vehicleRefId="1009"/>
+					<departure departureTime="11:00:00" id="266" vehicleRefId="1010"/>
+					<departure departureTime="11:05:00" id="267" vehicleRefId="1011"/>
+					<departure departureTime="11:10:00" id="268" vehicleRefId="1012"/>
+					<departure departureTime="11:15:00" id="269" vehicleRefId="1013"/>
+					<departure departureTime="11:20:00" id="270" vehicleRefId="1014"/>
+					<departure departureTime="11:25:00" id="271" vehicleRefId="1015"/>
+					<departure departureTime="11:30:00" id="272" vehicleRefId="1016"/>
+					<departure departureTime="11:35:00" id="273" vehicleRefId="1017"/>
+					<departure departureTime="11:40:00" id="274" vehicleRefId="1018"/>
+					<departure departureTime="11:45:00" id="275" vehicleRefId="1019"/>
+					<departure departureTime="11:50:00" id="276" vehicleRefId="1020"/>
+					<departure departureTime="11:55:00" id="277" vehicleRefId="1021"/>
+					<departure departureTime="12:00:00" id="278" vehicleRefId="1022"/>
+					<departure departureTime="12:05:00" id="279" vehicleRefId="1023"/>
+					<departure departureTime="12:10:00" id="280" vehicleRefId="1024"/>
+					<departure departureTime="12:15:00" id="281" vehicleRefId="1000"/>
+					<departure departureTime="12:20:00" id="282" vehicleRefId="1001"/>
+					<departure departureTime="12:25:00" id="283" vehicleRefId="1002"/>
+					<departure departureTime="12:30:00" id="284" vehicleRefId="1003"/>
+					<departure departureTime="12:35:00" id="285" vehicleRefId="1004"/>
+					<departure departureTime="12:40:00" id="286" vehicleRefId="1005"/>
+					<departure departureTime="12:45:00" id="287" vehicleRefId="1006"/>
+					<departure departureTime="12:50:00" id="288" vehicleRefId="1007"/>
+					<departure departureTime="12:55:00" id="289" vehicleRefId="1008"/>
+					<departure departureTime="13:00:00" id="290" vehicleRefId="1009"/>
+					<departure departureTime="13:05:00" id="291" vehicleRefId="1010"/>
+					<departure departureTime="13:10:00" id="292" vehicleRefId="1011"/>
+					<departure departureTime="13:15:00" id="293" vehicleRefId="1012"/>
+					<departure departureTime="13:20:00" id="294" vehicleRefId="1013"/>
+					<departure departureTime="13:25:00" id="295" vehicleRefId="1014"/>
+					<departure departureTime="13:30:00" id="296" vehicleRefId="1015"/>
+					<departure departureTime="13:35:00" id="297" vehicleRefId="1016"/>
+					<departure departureTime="13:40:00" id="298" vehicleRefId="1017"/>
+					<departure departureTime="13:45:00" id="299" vehicleRefId="1018"/>
+					<departure departureTime="13:50:00" id="300" vehicleRefId="1019"/>
+					<departure departureTime="13:55:00" id="301" vehicleRefId="1020"/>
+					<departure departureTime="14:00:00" id="302" vehicleRefId="1021"/>
+					<departure departureTime="14:05:00" id="303" vehicleRefId="1022"/>
+					<departure departureTime="14:10:00" id="304" vehicleRefId="1023"/>
+					<departure departureTime="14:15:00" id="305" vehicleRefId="1024"/>
+					<departure departureTime="14:20:00" id="306" vehicleRefId="1000"/>
+					<departure departureTime="14:25:00" id="307" vehicleRefId="1001"/>
+					<departure departureTime="14:30:00" id="308" vehicleRefId="1002"/>
+					<departure departureTime="14:35:00" id="309" vehicleRefId="1003"/>
+					<departure departureTime="14:40:00" id="310" vehicleRefId="1004"/>
+					<departure departureTime="14:45:00" id="311" vehicleRefId="1005"/>
+					<departure departureTime="14:50:00" id="312" vehicleRefId="1006"/>
+					<departure departureTime="14:55:00" id="313" vehicleRefId="1007"/>
+					<departure departureTime="15:00:00" id="314" vehicleRefId="1008"/>
+					<departure departureTime="15:05:00" id="315" vehicleRefId="1009"/>
+					<departure departureTime="15:10:00" id="316" vehicleRefId="1010"/>
+					<departure departureTime="15:15:00" id="317" vehicleRefId="1011"/>
+					<departure departureTime="15:20:00" id="318" vehicleRefId="1012"/>
+					<departure departureTime="15:25:00" id="319" vehicleRefId="1013"/>
+					<departure departureTime="15:30:00" id="320" vehicleRefId="1014"/>
+					<departure departureTime="15:35:00" id="321" vehicleRefId="1015"/>
+					<departure departureTime="15:40:00" id="322" vehicleRefId="1016"/>
+					<departure departureTime="15:45:00" id="323" vehicleRefId="1017"/>
+					<departure departureTime="15:50:00" id="324" vehicleRefId="1018"/>
+					<departure departureTime="15:55:00" id="325" vehicleRefId="1019"/>
+					<departure departureTime="16:00:00" id="326" vehicleRefId="1020"/>
+					<departure departureTime="16:05:00" id="327" vehicleRefId="1021"/>
+					<departure departureTime="16:10:00" id="328" vehicleRefId="1022"/>
+					<departure departureTime="16:15:00" id="329" vehicleRefId="1023"/>
+					<departure departureTime="16:20:00" id="330" vehicleRefId="1024"/>
+					<departure departureTime="16:25:00" id="331" vehicleRefId="1000"/>
+					<departure departureTime="16:30:00" id="332" vehicleRefId="1001"/>
+					<departure departureTime="16:35:00" id="333" vehicleRefId="1002"/>
+					<departure departureTime="16:40:00" id="334" vehicleRefId="1003"/>
+					<departure departureTime="16:45:00" id="335" vehicleRefId="1004"/>
+					<departure departureTime="16:50:00" id="336" vehicleRefId="1005"/>
+					<departure departureTime="16:55:00" id="337" vehicleRefId="1006"/>
+					<departure departureTime="17:00:00" id="338" vehicleRefId="1007"/>
+					<departure departureTime="17:05:00" id="339" vehicleRefId="1008"/>
+					<departure departureTime="17:10:00" id="340" vehicleRefId="1009"/>
+					<departure departureTime="17:15:00" id="341" vehicleRefId="1010"/>
+					<departure departureTime="17:20:00" id="342" vehicleRefId="1011"/>
+					<departure departureTime="17:25:00" id="343" vehicleRefId="1012"/>
+					<departure departureTime="17:30:00" id="344" vehicleRefId="1013"/>
+					<departure departureTime="17:35:00" id="345" vehicleRefId="1014"/>
+					<departure departureTime="17:40:00" id="346" vehicleRefId="1015"/>
+					<departure departureTime="17:45:00" id="347" vehicleRefId="1016"/>
+					<departure departureTime="17:50:00" id="348" vehicleRefId="1017"/>
+					<departure departureTime="17:55:00" id="349" vehicleRefId="1018"/>
+					<departure departureTime="18:00:00" id="350" vehicleRefId="1019"/>
+					<departure departureTime="18:05:00" id="351" vehicleRefId="1020"/>
+					<departure departureTime="18:10:00" id="352" vehicleRefId="1021"/>
+					<departure departureTime="18:15:00" id="353" vehicleRefId="1022"/>
+					<departure departureTime="18:20:00" id="354" vehicleRefId="1023"/>
+					<departure departureTime="18:25:00" id="355" vehicleRefId="1024"/>
+					<departure departureTime="18:30:00" id="356" vehicleRefId="1000"/>
+					<departure departureTime="18:35:00" id="357" vehicleRefId="1001"/>
+					<departure departureTime="18:40:00" id="358" vehicleRefId="1002"/>
+					<departure departureTime="18:45:00" id="359" vehicleRefId="1003"/>
+					<departure departureTime="18:50:00" id="360" vehicleRefId="1004"/>
+					<departure departureTime="18:55:00" id="361" vehicleRefId="1005"/>
+					<departure departureTime="19:00:00" id="362" vehicleRefId="1006"/>
+					<departure departureTime="19:05:00" id="363" vehicleRefId="1007"/>
+					<departure departureTime="19:10:00" id="364" vehicleRefId="1008"/>
+					<departure departureTime="19:15:00" id="365" vehicleRefId="1009"/>
+					<departure departureTime="19:20:00" id="366" vehicleRefId="1010"/>
+					<departure departureTime="19:25:00" id="367" vehicleRefId="1011"/>
+					<departure departureTime="19:30:00" id="368" vehicleRefId="1012"/>
+					<departure departureTime="19:35:00" id="369" vehicleRefId="1013"/>
+					<departure departureTime="19:40:00" id="370" vehicleRefId="1014"/>
+					<departure departureTime="19:45:00" id="371" vehicleRefId="1015"/>
+					<departure departureTime="19:50:00" id="372" vehicleRefId="1016"/>
+					<departure departureTime="19:55:00" id="373" vehicleRefId="1017"/>
+					<departure departureTime="20:00:00" id="374" vehicleRefId="1018"/>
+					<departure departureTime="20:05:00" id="375" vehicleRefId="1019"/>
+					<departure departureTime="20:10:00" id="376" vehicleRefId="1020"/>
+					<departure departureTime="20:15:00" id="377" vehicleRefId="1021"/>
+					<departure departureTime="20:20:00" id="378" vehicleRefId="1022"/>
+					<departure departureTime="20:25:00" id="379" vehicleRefId="1023"/>
+					<departure departureTime="20:30:00" id="380" vehicleRefId="1024"/>
+					<departure departureTime="20:35:00" id="381" vehicleRefId="1000"/>
+					<departure departureTime="20:40:00" id="382" vehicleRefId="1001"/>
+					<departure departureTime="20:45:00" id="383" vehicleRefId="1002"/>
+					<departure departureTime="20:50:00" id="384" vehicleRefId="1003"/>
+					<departure departureTime="20:55:00" id="385" vehicleRefId="1004"/>
+					<departure departureTime="21:00:00" id="386" vehicleRefId="1005"/>
+					<departure departureTime="21:05:00" id="387" vehicleRefId="1006"/>
+					<departure departureTime="21:10:00" id="388" vehicleRefId="1007"/>
+					<departure departureTime="21:15:00" id="389" vehicleRefId="1008"/>
+					<departure departureTime="21:20:00" id="390" vehicleRefId="1009"/>
+					<departure departureTime="21:25:00" id="391" vehicleRefId="1010"/>
+					<departure departureTime="21:30:00" id="392" vehicleRefId="1011"/>
+					<departure departureTime="21:35:00" id="393" vehicleRefId="1012"/>
+					<departure departureTime="21:40:00" id="394" vehicleRefId="1013"/>
+					<departure departureTime="21:45:00" id="395" vehicleRefId="1014"/>
+					<departure departureTime="21:50:00" id="396" vehicleRefId="1015"/>
+					<departure departureTime="21:55:00" id="397" vehicleRefId="1016"/>
+					<departure departureTime="22:00:00" id="398" vehicleRefId="1017"/>
+					<departure departureTime="22:05:00" id="399" vehicleRefId="1018"/>
+					<departure departureTime="22:10:00" id="400" vehicleRefId="1019"/>
+					<departure departureTime="22:15:00" id="401" vehicleRefId="1020"/>
+					<departure departureTime="22:20:00" id="402" vehicleRefId="1021"/>
+					<departure departureTime="22:25:00" id="403" vehicleRefId="1022"/>
+					<departure departureTime="22:30:00" id="404" vehicleRefId="1023"/>
+					<departure departureTime="22:35:00" id="405" vehicleRefId="1024"/>
+					<departure departureTime="22:40:00" id="406" vehicleRefId="1000"/>
+					<departure departureTime="22:45:00" id="407" vehicleRefId="1001"/>
+					<departure departureTime="22:50:00" id="408" vehicleRefId="1002"/>
+					<departure departureTime="22:55:00" id="409" vehicleRefId="1003"/>
+					<departure departureTime="23:00:00" id="410" vehicleRefId="1004"/>
+				</departures>
+			</transitRoute>
+			<transitRoute id="南京6路2">
+				<transportMode>pt</transportMode>
+				<routeProfile>
+					<stop awaitDeparture="false" departureOffset="00:00:30" refId="stop_南京6路大瓜园_r"/>
+					<stop arrivalOffset="00:02:30" awaitDeparture="false" departureOffset="00:02:30" refId="stop_南京6路土岗_r"/>
+					<stop arrivalOffset="00:04:30" awaitDeparture="false" departureOffset="00:04:30" refId="stop_南京6路迈化路·墨香路北_r"/>
+					<stop arrivalOffset="00:06:30" awaitDeparture="false" departureOffset="00:06:30" refId="stop_南京6路万寿村_r"/>
+					<stop arrivalOffset="00:08:30" awaitDeparture="false" departureOffset="00:08:30" refId="stop_南京6路合作村_r"/>
+					<stop arrivalOffset="00:10:30" awaitDeparture="false" departureOffset="00:10:30" refId="stop_南京6路小营村_r"/>
+					<stop arrivalOffset="00:12:30" awaitDeparture="false" departureOffset="00:12:30" refId="stop_南京6路墨香路_r"/>
+					<stop arrivalOffset="00:14:30" awaitDeparture="false" departureOffset="00:14:30" refId="stop_南京6路经五立交_r"/>
+					<stop arrivalOffset="00:16:30" awaitDeparture="false" departureOffset="00:16:30" refId="stop_南京6路樱驼花园_r"/>
+					<stop arrivalOffset="00:18:30" awaitDeparture="false" departureOffset="00:18:30" refId="stop_南京6路樱花路_r"/>
+					<stop arrivalOffset="00:20:30" awaitDeparture="false" departureOffset="00:20:30" refId="stop_南京6路蒋王庙_r"/>
+					<stop arrivalOffset="00:22:30" awaitDeparture="false" departureOffset="00:22:30" refId="stop_南京6路樱驼村_r"/>
+					<stop arrivalOffset="00:24:30" awaitDeparture="false" departureOffset="00:24:30" refId="stop_南京6路板仓街·花园路_r"/>
+					<stop arrivalOffset="00:26:30" awaitDeparture="false" departureOffset="00:26:30" refId="stop_南京6路钟麓花园_r"/>
+					<stop arrivalOffset="00:28:30" awaitDeparture="false" departureOffset="00:28:30" refId="stop_南京6路板仓村_r"/>
+					<stop arrivalOffset="00:30:30" awaitDeparture="false" departureOffset="00:30:30" refId="stop_南京6路板仓街·岗子村_r"/>
+					<stop arrivalOffset="00:32:30" awaitDeparture="false" departureOffset="00:32:30" refId="stop_南京6路富贵山_r"/>
+					<stop arrivalOffset="00:34:30" awaitDeparture="false" departureOffset="00:34:30" refId="stop_南京6路后宰门_r"/>
+					<stop arrivalOffset="00:36:30" awaitDeparture="false" departureOffset="00:36:30" refId="stop_南京6路马标_r"/>
+					<stop arrivalOffset="00:38:30" awaitDeparture="false" departureOffset="00:38:30" refId="stop_南京6路珠江路·小营_r"/>
+					<stop arrivalOffset="00:40:30" awaitDeparture="false" departureOffset="00:40:30" refId="stop_南京6路浮桥_r"/>
+					<stop arrivalOffset="00:42:30" awaitDeparture="false" departureOffset="00:42:30" refId="stop_南京6路浮桥西_r"/>
+					<stop arrivalOffset="00:44:30" awaitDeparture="false" departureOffset="00:44:30" refId="stop_南京6路莲花桥_r"/>
+					<stop arrivalOffset="00:46:30" awaitDeparture="false" departureOffset="00:46:30" refId="stop_南京6路珠江路·中山路_r"/>
+					<stop arrivalOffset="00:48:30" awaitDeparture="false" departureOffset="00:48:30" refId="stop_南京6路儿童医院_r"/>
+					<stop arrivalOffset="00:50:30" awaitDeparture="false" departureOffset="00:50:30" refId="stop_南京6路随家仓_r"/>
+					<stop arrivalOffset="00:52:30" awaitDeparture="false" departureOffset="00:52:30" refId="stop_南京6路脑科医院_r"/>
+					<stop arrivalOffset="00:54:30" awaitDeparture="false" departureOffset="00:54:30" refId="stop_南京6路省人民医院1_r"/>
+					<stop arrivalOffset="00:56:30" awaitDeparture="false" refId="stop_南京6路清凉山公园_r"/>
+				</routeProfile>
+				<route>
+					<link refId="南京6路大瓜园_r"/>
+					<link refId="from_南京6路土岗_B_to_南京6路大瓜园_A_r"/>
+					<link refId="南京6路土岗_r"/>
+					<link refId="from_南京6路迈化路·墨香路北_B_to_南京6路土岗_A_r"/>
+					<link refId="南京6路迈化路·墨香路北_r"/>
+					<link refId="from_南京6路万寿村_B_to_南京6路迈化路·墨香路北_A_r"/>
+					<link refId="南京6路万寿村_r"/>
+					<link refId="from_南京6路合作村_B_to_南京6路万寿村_A_r"/>
+					<link refId="南京6路合作村_r"/>
+					<link refId="from_南京6路小营村_B_to_南京6路合作村_A_r"/>
+					<link refId="南京6路小营村_r"/>
+					<link refId="from_南京6路墨香路_B_to_南京6路小营村_A_r"/>
+					<link refId="南京6路墨香路_r"/>
+					<link refId="from_南京6路经五立交_B_to_南京6路墨香路_A_r"/>
+					<link refId="南京6路经五立交_r"/>
+					<link refId="from_南京6路樱驼花园_B_to_南京6路经五立交_A_r"/>
+					<link refId="南京6路樱驼花园_r"/>
+					<link refId="from_南京6路樱花路_B_to_南京6路樱驼花园_A_r"/>
+					<link refId="南京6路樱花路_r"/>
+					<link refId="from_南京6路蒋王庙_B_to_南京6路樱花路_A_r"/>
+					<link refId="南京6路蒋王庙_r"/>
+					<link refId="from_南京6路樱驼村_B_to_南京6路蒋王庙_A_r"/>
+					<link refId="南京6路樱驼村_r"/>
+					<link refId="from_南京6路板仓街·花园路_B_to_南京6路樱驼村_A_r"/>
+					<link refId="南京6路板仓街·花园路_r"/>
+					<link refId="from_南京6路钟麓花园_B_to_南京6路板仓街·花园路_A_r"/>
+					<link refId="南京6路钟麓花园_r"/>
+					<link refId="from_南京6路板仓村_B_to_南京6路钟麓花园_A_r"/>
+					<link refId="南京6路板仓村_r"/>
+					<link refId="from_南京6路板仓街·岗子村_B_to_南京6路板仓村_A_r"/>
+					<link refId="南京6路板仓街·岗子村_r"/>
+					<link refId="from_南京6路富贵山_B_to_南京6路板仓街·岗子村_A_r"/>
+					<link refId="南京6路富贵山_r"/>
+					<link refId="from_南京6路后宰门_B_to_南京6路富贵山_A_r"/>
+					<link refId="南京6路后宰门_r"/>
+					<link refId="from_南京6路马标_B_to_南京6路后宰门_A_r"/>
+					<link refId="南京6路马标_r"/>
+					<link refId="from_南京6路珠江路·小营_B_to_南京6路马标_A_r"/>
+					<link refId="南京6路珠江路·小营_r"/>
+					<link refId="from_南京6路浮桥_B_to_南京6路珠江路·小营_A_r"/>
+					<link refId="南京6路浮桥_r"/>
+					<link refId="from_南京6路浮桥西_B_to_南京6路浮桥_A_r"/>
+					<link refId="南京6路浮桥西_r"/>
+					<link refId="from_南京6路莲花桥_B_to_南京6路浮桥西_A_r"/>
+					<link refId="南京6路莲花桥_r"/>
+					<link refId="from_南京6路珠江路·中山路_B_to_南京6路莲花桥_A_r"/>
+					<link refId="南京6路珠江路·中山路_r"/>
+					<link refId="from_南京6路儿童医院_B_to_南京6路珠江路·中山路_A_r"/>
+					<link refId="南京6路儿童医院_r"/>
+					<link refId="from_南京6路随家仓_B_to_南京6路儿童医院_A_r"/>
+					<link refId="南京6路随家仓_r"/>
+					<link refId="from_南京6路脑科医院_B_to_南京6路随家仓_A_r"/>
+					<link refId="南京6路脑科医院_r"/>
+					<link refId="from_南京6路省人民医院1_B_to_南京6路脑科医院_A_r"/>
+					<link refId="南京6路省人民医院1_r"/>
+					<link refId="from_南京6路清凉山公园_B_to_南京6路省人民医院1_A_r"/>
+					<link refId="南京6路清凉山公园_r"/>
+				</route>
+				<departures>
+					<departure departureTime="06:00:00" id="411" vehicleRefId="1025"/>
+					<departure departureTime="06:05:00" id="412" vehicleRefId="1026"/>
+					<departure departureTime="06:10:00" id="413" vehicleRefId="1027"/>
+					<departure departureTime="06:15:00" id="414" vehicleRefId="1028"/>
+					<departure departureTime="06:20:00" id="415" vehicleRefId="1029"/>
+					<departure departureTime="06:25:00" id="416" vehicleRefId="1030"/>
+					<departure departureTime="06:30:00" id="417" vehicleRefId="1031"/>
+					<departure departureTime="06:35:00" id="418" vehicleRefId="1032"/>
+					<departure departureTime="06:40:00" id="419" vehicleRefId="1033"/>
+					<departure departureTime="06:45:00" id="420" vehicleRefId="1034"/>
+					<departure departureTime="06:50:00" id="421" vehicleRefId="1035"/>
+					<departure departureTime="06:55:00" id="422" vehicleRefId="1036"/>
+					<departure departureTime="07:00:00" id="423" vehicleRefId="1037"/>
+					<departure departureTime="07:05:00" id="424" vehicleRefId="1038"/>
+					<departure departureTime="07:10:00" id="425" vehicleRefId="1039"/>
+					<departure departureTime="07:15:00" id="426" vehicleRefId="1040"/>
+					<departure departureTime="07:20:00" id="427" vehicleRefId="1041"/>
+					<departure departureTime="07:25:00" id="428" vehicleRefId="1042"/>
+					<departure departureTime="07:30:00" id="429" vehicleRefId="1043"/>
+					<departure departureTime="07:35:00" id="430" vehicleRefId="1044"/>
+					<departure departureTime="07:40:00" id="431" vehicleRefId="1045"/>
+					<departure departureTime="07:45:00" id="432" vehicleRefId="1046"/>
+					<departure departureTime="07:50:00" id="433" vehicleRefId="1047"/>
+					<departure departureTime="07:55:00" id="434" vehicleRefId="1048"/>
+					<departure departureTime="08:00:00" id="435" vehicleRefId="1049"/>
+					<departure departureTime="08:05:00" id="436" vehicleRefId="1025"/>
+					<departure departureTime="08:10:00" id="437" vehicleRefId="1026"/>
+					<departure departureTime="08:15:00" id="438" vehicleRefId="1027"/>
+					<departure departureTime="08:20:00" id="439" vehicleRefId="1028"/>
+					<departure departureTime="08:25:00" id="440" vehicleRefId="1029"/>
+					<departure departureTime="08:30:00" id="441" vehicleRefId="1030"/>
+					<departure departureTime="08:35:00" id="442" vehicleRefId="1031"/>
+					<departure departureTime="08:40:00" id="443" vehicleRefId="1032"/>
+					<departure departureTime="08:45:00" id="444" vehicleRefId="1033"/>
+					<departure departureTime="08:50:00" id="445" vehicleRefId="1034"/>
+					<departure departureTime="08:55:00" id="446" vehicleRefId="1035"/>
+					<departure departureTime="09:00:00" id="447" vehicleRefId="1036"/>
+					<departure departureTime="09:05:00" id="448" vehicleRefId="1037"/>
+					<departure departureTime="09:10:00" id="449" vehicleRefId="1038"/>
+					<departure departureTime="09:15:00" id="450" vehicleRefId="1039"/>
+					<departure departureTime="09:20:00" id="451" vehicleRefId="1040"/>
+					<departure departureTime="09:25:00" id="452" vehicleRefId="1041"/>
+					<departure departureTime="09:30:00" id="453" vehicleRefId="1042"/>
+					<departure departureTime="09:35:00" id="454" vehicleRefId="1043"/>
+					<departure departureTime="09:40:00" id="455" vehicleRefId="1044"/>
+					<departure departureTime="09:45:00" id="456" vehicleRefId="1045"/>
+					<departure departureTime="09:50:00" id="457" vehicleRefId="1046"/>
+					<departure departureTime="09:55:00" id="458" vehicleRefId="1047"/>
+					<departure departureTime="10:00:00" id="459" vehicleRefId="1048"/>
+					<departure departureTime="10:05:00" id="460" vehicleRefId="1049"/>
+					<departure departureTime="10:10:00" id="461" vehicleRefId="1025"/>
+					<departure departureTime="10:15:00" id="462" vehicleRefId="1026"/>
+					<departure departureTime="10:20:00" id="463" vehicleRefId="1027"/>
+					<departure departureTime="10:25:00" id="464" vehicleRefId="1028"/>
+					<departure departureTime="10:30:00" id="465" vehicleRefId="1029"/>
+					<departure departureTime="10:35:00" id="466" vehicleRefId="1030"/>
+					<departure departureTime="10:40:00" id="467" vehicleRefId="1031"/>
+					<departure departureTime="10:45:00" id="468" vehicleRefId="1032"/>
+					<departure departureTime="10:50:00" id="469" vehicleRefId="1033"/>
+					<departure departureTime="10:55:00" id="470" vehicleRefId="1034"/>
+					<departure departureTime="11:00:00" id="471" vehicleRefId="1035"/>
+					<departure departureTime="11:05:00" id="472" vehicleRefId="1036"/>
+					<departure departureTime="11:10:00" id="473" vehicleRefId="1037"/>
+					<departure departureTime="11:15:00" id="474" vehicleRefId="1038"/>
+					<departure departureTime="11:20:00" id="475" vehicleRefId="1039"/>
+					<departure departureTime="11:25:00" id="476" vehicleRefId="1040"/>
+					<departure departureTime="11:30:00" id="477" vehicleRefId="1041"/>
+					<departure departureTime="11:35:00" id="478" vehicleRefId="1042"/>
+					<departure departureTime="11:40:00" id="479" vehicleRefId="1043"/>
+					<departure departureTime="11:45:00" id="480" vehicleRefId="1044"/>
+					<departure departureTime="11:50:00" id="481" vehicleRefId="1045"/>
+					<departure departureTime="11:55:00" id="482" vehicleRefId="1046"/>
+					<departure departureTime="12:00:00" id="483" vehicleRefId="1047"/>
+					<departure departureTime="12:05:00" id="484" vehicleRefId="1048"/>
+					<departure departureTime="12:10:00" id="485" vehicleRefId="1049"/>
+					<departure departureTime="12:15:00" id="486" vehicleRefId="1025"/>
+					<departure departureTime="12:20:00" id="487" vehicleRefId="1026"/>
+					<departure departureTime="12:25:00" id="488" vehicleRefId="1027"/>
+					<departure departureTime="12:30:00" id="489" vehicleRefId="1028"/>
+					<departure departureTime="12:35:00" id="490" vehicleRefId="1029"/>
+					<departure departureTime="12:40:00" id="491" vehicleRefId="1030"/>
+					<departure departureTime="12:45:00" id="492" vehicleRefId="1031"/>
+					<departure departureTime="12:50:00" id="493" vehicleRefId="1032"/>
+					<departure departureTime="12:55:00" id="494" vehicleRefId="1033"/>
+					<departure departureTime="13:00:00" id="495" vehicleRefId="1034"/>
+					<departure departureTime="13:05:00" id="496" vehicleRefId="1035"/>
+					<departure departureTime="13:10:00" id="497" vehicleRefId="1036"/>
+					<departure departureTime="13:15:00" id="498" vehicleRefId="1037"/>
+					<departure departureTime="13:20:00" id="499" vehicleRefId="1038"/>
+					<departure departureTime="13:25:00" id="500" vehicleRefId="1039"/>
+					<departure departureTime="13:30:00" id="501" vehicleRefId="1040"/>
+					<departure departureTime="13:35:00" id="502" vehicleRefId="1041"/>
+					<departure departureTime="13:40:00" id="503" vehicleRefId="1042"/>
+					<departure departureTime="13:45:00" id="504" vehicleRefId="1043"/>
+					<departure departureTime="13:50:00" id="505" vehicleRefId="1044"/>
+					<departure departureTime="13:55:00" id="506" vehicleRefId="1045"/>
+					<departure departureTime="14:00:00" id="507" vehicleRefId="1046"/>
+					<departure departureTime="14:05:00" id="508" vehicleRefId="1047"/>
+					<departure departureTime="14:10:00" id="509" vehicleRefId="1048"/>
+					<departure departureTime="14:15:00" id="510" vehicleRefId="1049"/>
+					<departure departureTime="14:20:00" id="511" vehicleRefId="1025"/>
+					<departure departureTime="14:25:00" id="512" vehicleRefId="1026"/>
+					<departure departureTime="14:30:00" id="513" vehicleRefId="1027"/>
+					<departure departureTime="14:35:00" id="514" vehicleRefId="1028"/>
+					<departure departureTime="14:40:00" id="515" vehicleRefId="1029"/>
+					<departure departureTime="14:45:00" id="516" vehicleRefId="1030"/>
+					<departure departureTime="14:50:00" id="517" vehicleRefId="1031"/>
+					<departure departureTime="14:55:00" id="518" vehicleRefId="1032"/>
+					<departure departureTime="15:00:00" id="519" vehicleRefId="1033"/>
+					<departure departureTime="15:05:00" id="520" vehicleRefId="1034"/>
+					<departure departureTime="15:10:00" id="521" vehicleRefId="1035"/>
+					<departure departureTime="15:15:00" id="522" vehicleRefId="1036"/>
+					<departure departureTime="15:20:00" id="523" vehicleRefId="1037"/>
+					<departure departureTime="15:25:00" id="524" vehicleRefId="1038"/>
+					<departure departureTime="15:30:00" id="525" vehicleRefId="1039"/>
+					<departure departureTime="15:35:00" id="526" vehicleRefId="1040"/>
+					<departure departureTime="15:40:00" id="527" vehicleRefId="1041"/>
+					<departure departureTime="15:45:00" id="528" vehicleRefId="1042"/>
+					<departure departureTime="15:50:00" id="529" vehicleRefId="1043"/>
+					<departure departureTime="15:55:00" id="530" vehicleRefId="1044"/>
+					<departure departureTime="16:00:00" id="531" vehicleRefId="1045"/>
+					<departure departureTime="16:05:00" id="532" vehicleRefId="1046"/>
+					<departure departureTime="16:10:00" id="533" vehicleRefId="1047"/>
+					<departure departureTime="16:15:00" id="534" vehicleRefId="1048"/>
+					<departure departureTime="16:20:00" id="535" vehicleRefId="1049"/>
+					<departure departureTime="16:25:00" id="536" vehicleRefId="1025"/>
+					<departure departureTime="16:30:00" id="537" vehicleRefId="1026"/>
+					<departure departureTime="16:35:00" id="538" vehicleRefId="1027"/>
+					<departure departureTime="16:40:00" id="539" vehicleRefId="1028"/>
+					<departure departureTime="16:45:00" id="540" vehicleRefId="1029"/>
+					<departure departureTime="16:50:00" id="541" vehicleRefId="1030"/>
+					<departure departureTime="16:55:00" id="542" vehicleRefId="1031"/>
+					<departure departureTime="17:00:00" id="543" vehicleRefId="1032"/>
+					<departure departureTime="17:05:00" id="544" vehicleRefId="1033"/>
+					<departure departureTime="17:10:00" id="545" vehicleRefId="1034"/>
+					<departure departureTime="17:15:00" id="546" vehicleRefId="1035"/>
+					<departure departureTime="17:20:00" id="547" vehicleRefId="1036"/>
+					<departure departureTime="17:25:00" id="548" vehicleRefId="1037"/>
+					<departure departureTime="17:30:00" id="549" vehicleRefId="1038"/>
+					<departure departureTime="17:35:00" id="550" vehicleRefId="1039"/>
+					<departure departureTime="17:40:00" id="551" vehicleRefId="1040"/>
+					<departure departureTime="17:45:00" id="552" vehicleRefId="1041"/>
+					<departure departureTime="17:50:00" id="553" vehicleRefId="1042"/>
+					<departure departureTime="17:55:00" id="554" vehicleRefId="1043"/>
+					<departure departureTime="18:00:00" id="555" vehicleRefId="1044"/>
+					<departure departureTime="18:05:00" id="556" vehicleRefId="1045"/>
+					<departure departureTime="18:10:00" id="557" vehicleRefId="1046"/>
+					<departure departureTime="18:15:00" id="558" vehicleRefId="1047"/>
+					<departure departureTime="18:20:00" id="559" vehicleRefId="1048"/>
+					<departure departureTime="18:25:00" id="560" vehicleRefId="1049"/>
+					<departure departureTime="18:30:00" id="561" vehicleRefId="1025"/>
+					<departure departureTime="18:35:00" id="562" vehicleRefId="1026"/>
+					<departure departureTime="18:40:00" id="563" vehicleRefId="1027"/>
+					<departure departureTime="18:45:00" id="564" vehicleRefId="1028"/>
+					<departure departureTime="18:50:00" id="565" vehicleRefId="1029"/>
+					<departure departureTime="18:55:00" id="566" vehicleRefId="1030"/>
+					<departure departureTime="19:00:00" id="567" vehicleRefId="1031"/>
+					<departure departureTime="19:05:00" id="568" vehicleRefId="1032"/>
+					<departure departureTime="19:10:00" id="569" vehicleRefId="1033"/>
+					<departure departureTime="19:15:00" id="570" vehicleRefId="1034"/>
+					<departure departureTime="19:20:00" id="571" vehicleRefId="1035"/>
+					<departure departureTime="19:25:00" id="572" vehicleRefId="1036"/>
+					<departure departureTime="19:30:00" id="573" vehicleRefId="1037"/>
+					<departure departureTime="19:35:00" id="574" vehicleRefId="1038"/>
+					<departure departureTime="19:40:00" id="575" vehicleRefId="1039"/>
+					<departure departureTime="19:45:00" id="576" vehicleRefId="1040"/>
+					<departure departureTime="19:50:00" id="577" vehicleRefId="1041"/>
+					<departure departureTime="19:55:00" id="578" vehicleRefId="1042"/>
+					<departure departureTime="20:00:00" id="579" vehicleRefId="1043"/>
+					<departure departureTime="20:05:00" id="580" vehicleRefId="1044"/>
+					<departure departureTime="20:10:00" id="581" vehicleRefId="1045"/>
+					<departure departureTime="20:15:00" id="582" vehicleRefId="1046"/>
+					<departure departureTime="20:20:00" id="583" vehicleRefId="1047"/>
+					<departure departureTime="20:25:00" id="584" vehicleRefId="1048"/>
+					<departure departureTime="20:30:00" id="585" vehicleRefId="1049"/>
+					<departure departureTime="20:35:00" id="586" vehicleRefId="1025"/>
+					<departure departureTime="20:40:00" id="587" vehicleRefId="1026"/>
+					<departure departureTime="20:45:00" id="588" vehicleRefId="1027"/>
+					<departure departureTime="20:50:00" id="589" vehicleRefId="1028"/>
+					<departure departureTime="20:55:00" id="590" vehicleRefId="1029"/>
+					<departure departureTime="21:00:00" id="591" vehicleRefId="1030"/>
+					<departure departureTime="21:05:00" id="592" vehicleRefId="1031"/>
+					<departure departureTime="21:10:00" id="593" vehicleRefId="1032"/>
+					<departure departureTime="21:15:00" id="594" vehicleRefId="1033"/>
+					<departure departureTime="21:20:00" id="595" vehicleRefId="1034"/>
+					<departure departureTime="21:25:00" id="596" vehicleRefId="1035"/>
+					<departure departureTime="21:30:00" id="597" vehicleRefId="1036"/>
+					<departure departureTime="21:35:00" id="598" vehicleRefId="1037"/>
+					<departure departureTime="21:40:00" id="599" vehicleRefId="1038"/>
+					<departure departureTime="21:45:00" id="600" vehicleRefId="1039"/>
+					<departure departureTime="21:50:00" id="601" vehicleRefId="1040"/>
+					<departure departureTime="21:55:00" id="602" vehicleRefId="1041"/>
+					<departure departureTime="22:00:00" id="603" vehicleRefId="1042"/>
+					<departure departureTime="22:05:00" id="604" vehicleRefId="1043"/>
+					<departure departureTime="22:10:00" id="605" vehicleRefId="1044"/>
+					<departure departureTime="22:15:00" id="606" vehicleRefId="1045"/>
+					<departure departureTime="22:20:00" id="607" vehicleRefId="1046"/>
+					<departure departureTime="22:25:00" id="608" vehicleRefId="1047"/>
+					<departure departureTime="22:30:00" id="609" vehicleRefId="1048"/>
+					<departure departureTime="22:35:00" id="610" vehicleRefId="1049"/>
+					<departure departureTime="22:40:00" id="611" vehicleRefId="1025"/>
+					<departure departureTime="22:45:00" id="612" vehicleRefId="1026"/>
+					<departure departureTime="22:50:00" id="613" vehicleRefId="1027"/>
+					<departure departureTime="22:55:00" id="614" vehicleRefId="1028"/>
+					<departure departureTime="23:00:00" id="615" vehicleRefId="1029"/>
+				</departures>
+			</transitRoute>
+		</transitLine>
+	</transitSchedule>

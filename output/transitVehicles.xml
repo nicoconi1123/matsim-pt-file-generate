@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<vehicleDefinitions xmlns="http://www.matsim.org/files/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.matsim.org/files/dtd http://www.matsim.org/files/dtd/vehicleDefinitions_v1.0.xsd">
+		<vehicleType id="南京3号线">
+			<description>pt</description>
+			<capacity>
+				<seats persons="350"/>
+				<standingRoom persons="2000"/>
+			</capacity>
+			<length meter="100"/>
+		</vehicleType>
+		<vehicleType id="南京6路">
+			<description>pt</description>
+			<capacity>
+				<seats persons="30"/>
+				<standingRoom persons="50"/>
+			</capacity>
+			<length meter="5"/>
+		</vehicleType>
+		<vehicle id="00" type="南京3号线"/>
+		<vehicle id="01" type="南京3号线"/>
+		<vehicle id="02" type="南京3号线"/>
+		<vehicle id="03" type="南京3号线"/>
+		<vehicle id="04" type="南京3号线"/>
+		<vehicle id="05" type="南京3号线"/>
+		<vehicle id="06" type="南京3号线"/>
+		<vehicle id="07" type="南京3号线"/>
+		<vehicle id="08" type="南京3号线"/>
+		<vehicle id="09" type="南京3号线"/>
+		<vehicle id="10" type="南京3号线"/>
+		<vehicle id="11" type="南京3号线"/>
+		<vehicle id="12" type="南京3号线"/>
+		<vehicle id="13" type="南京3号线"/>
+		<vehicle id="14" type="南京3号线"/>
+		<vehicle id="15" type="南京3号线"/>
+		<vehicle id="16" type="南京3号线"/>
+		<vehicle id="17" type="南京3号线"/>
+		<vehicle id="18" type="南京3号线"/>
+		<vehicle id="19" type="南京3号线"/>
+		<vehicle id="20" type="南京3号线"/>
+		<vehicle id="21" type="南京3号线"/>
+		<vehicle id="22" type="南京3号线"/>
+		<vehicle id="23" type="南京3号线"/>
+		<vehicle id="24" type="南京3号线"/>
+		<vehicle id="25" type="南京3号线"/>
+		<vehicle id="26" type="南京3号线"/>
+		<vehicle id="27" type="南京3号线"/>
+		<vehicle id="28" type="南京3号线"/>
+		<vehicle id="29" type="南京3号线"/>
+		<vehicle id="30" type="南京3号线"/>
+		<vehicle id="31" type="南京3号线"/>
+		<vehicle id="32" type="南京3号线"/>
+		<vehicle id="33" type="南京3号线"/>
+		<vehicle id="34" type="南京3号线"/>
+		<vehicle id="35" type="南京3号线"/>
+		<vehicle id="36" type="南京3号线"/>
+		<vehicle id="37" type="南京3号线"/>
+		<vehicle id="38" type="南京3号线"/>
+		<vehicle id="39" type="南京3号线"/>
+		<vehicle id="40" type="南京3号线"/>
+		<vehicle id="41" type="南京3号线"/>
+		<vehicle id="42" type="南京3号线"/>
+		<vehicle id="43" type="南京3号线"/>
+		<vehicle id="44" type="南京3号线"/>
+		<vehicle id="45" type="南京3号线"/>
+		<vehicle id="46" type="南京3号线"/>
+		<vehicle id="47" type="南京3号线"/>
+		<vehicle id="48" type="南京3号线"/>
+		<vehicle id="49" type="南京3号线"/>
+		<vehicle id="1000" type="南京6路"/>
+		<vehicle id="1001" type="南京6路"/>
+		<vehicle id="1002" type="南京6路"/>
+		<vehicle id="1003" type="南京6路"/>
+		<vehicle id="1004" type="南京6路"/>
+		<vehicle id="1005" type="南京6路"/>
+		<vehicle id="1006" type="南京6路"/>
+		<vehicle id="1007" type="南京6路"/>
+		<vehicle id="1008" type="南京6路"/>
+		<vehicle id="1009" type="南京6路"/>
+		<vehicle id="1010" type="南京6路"/>
+		<vehicle id="1011" type="南京6路"/>
+		<vehicle id="1012" type="南京6路"/>
+		<vehicle id="1013" type="南京6路"/>
+		<vehicle id="1014" type="南京6路"/>
+		<vehicle id="1015" type="南京6路"/>
+		<vehicle id="1016" type="南京6路"/>
+		<vehicle id="1017" type="南京6路"/>
+		<vehicle id="1018" type="南京6路"/>
+		<vehicle id="1019" type="南京6路"/>
+		<vehicle id="1020" type="南京6路"/>
+		<vehicle id="1021" type="南京6路"/>
+		<vehicle id="1022" type="南京6路"/>
+		<vehicle id="1023" type="南京6路"/>
+		<vehicle id="1024" type="南京6路"/>
+		<vehicle id="1025" type="南京6路"/>
+		<vehicle id="1026" type="南京6路"/>
+		<vehicle id="1027" type="南京6路"/>
+		<vehicle id="1028" type="南京6路"/>
+		<vehicle id="1029" type="南京6路"/>
+		<vehicle id="1030" type="南京6路"/>
+		<vehicle id="1031" type="南京6路"/>
+		<vehicle id="1032" type="南京6路"/>
+		<vehicle id="1033" type="南京6路"/>
+		<vehicle id="1034" type="南京6路"/>
+		<vehicle id="1035" type="南京6路"/>
+		<vehicle id="1036" type="南京6路"/>
+		<vehicle id="1037" type="南京6路"/>
+		<vehicle id="1038" type="南京6路"/>
+		<vehicle id="1039" type="南京6路"/>
+		<vehicle id="1040" type="南京6路"/>
+		<vehicle id="1041" type="南京6路"/>
+		<vehicle id="1042" type="南京6路"/>
+		<vehicle id="1043" type="南京6路"/>
+		<vehicle id="1044" type="南京6路"/>
+		<vehicle id="1045" type="南京6路"/>
+		<vehicle id="1046" type="南京6路"/>
+		<vehicle id="1047" type="南京6路"/>
+		<vehicle id="1048" type="南京6路"/>
+		<vehicle id="1049" type="南京6路"/>
+	</vehicleDefinitions>
